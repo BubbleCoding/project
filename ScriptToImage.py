@@ -3,7 +3,7 @@ import torch
 import AddTextToImage
 
 pipe = DiffusionPipeline.from_pretrained("stabilityai/stable-diffusion-xl-base-1.0", torch_dtype=torch.float16, use_safetensors=True, variant="fp16")
-#pipe.to("cuda")
+pipe.to("cuda")
 
 def generate_images_from_script(comic_script):
     # Iterate through each panel in the script
