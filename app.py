@@ -19,7 +19,7 @@ def create_comic_book():
 
     # Step 4: Add text to the images
     #AddTextToImage.add_text_to_images(comic_script)
-    print("Panel Images Added Text Successful!")
+    #print("Panel Images Added Text Successful!")
 
     # Step 5: Create a comic page from the images
     CreateComicPage.create_strip()
