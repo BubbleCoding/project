@@ -7,3 +7,5 @@
 /env
 **/*.jpg
 !/comic.jpg
+/__pycache__
+*.pyc
