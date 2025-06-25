@@ -9,3 +9,4 @@
 !/comic.jpg
 /__pycache__
 *.pyc
+.safetensors
