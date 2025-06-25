@@ -1,0 +1,76 @@
+[
+  {
+    "setting": "A D&D campaign, a humorous take on the genre.",
+    "characters": [
+      "SPEAKER_01",
+      "Gundren Rockseeker"
+    ],
+    "objects": [],
+    "action": "SPEAKER_01 is reacting to Gundren's introduction.",
+    "mood": "amused",
+    "camera_view": "close-up",
+    "lighting": "natural, with a hint of comedy",
+    "text": "'He's the Andrew WK of D.&.D...' - SPEAKER_01"
+  },
+  {
+    "setting": "A dimly lit tavern with a wooden stage in the center.",
+    "characters": [
+      "Griff",
+      "Dwarven Voice Coach"
+    ],
+    "objects": [
+      "microphone",
+      "music sheet"
+    ],
+    "action": "The dwarven voice coach attempts to teach Griff how to do a voice, but Griff struggles to get it right.",
+    "mood": "frustrated",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "Griff: In a low dwarven gru.mble...."
+  },
+  {
+    "setting": "Ancient mine, with dusty tunnels and old mining equipment.",
+    "characters": [
+      "Fall?ad?win???"
+    ],
+    "objects": [
+      "deep magical vein",
+      "mining equipment"
+    ],
+    "action": "SPEAKER_02 is reminiscing about the motherlode operation.",
+    "mood": "nostalgic",
+    "camera_view": "medium shot",
+    "lighting": "distant sunlight, with shadows cast by old mining machinery",
+    "text": "SPEAKER_02: What about Fall?ad?win???... They had a very productive motherlode operation going on there..."
+  },
+  {
+    "setting": "Small, cluttered alchemist's workshop with various beakers and flasks.",
+    "characters": [
+      "Mer.le",
+      "Gundren"
+    ],
+    "objects": [
+      "beaker",
+      "flask",
+      "seed"
+    ],
+    "action": "Mer.le is pouring soil into a beaker while Gundren looks on attentively.",
+    "mood": "intense",
+    "camera_view": "close-up shot",
+    "lighting": "dim, with only a faint glow from the workshop's shelves.",
+    "text": "\"But Gundren seems very invested in that town... / Listen up,, Mer.le... / I've actually already planted this seed, and now I have to cover it in soil and nurture it for a bit...\""
+  },
+  {
+    "setting": "A campsite in a dense forest, with two figures seated at a table.",
+    "characters": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "Two adventurers discussing a mission at a campsite.",
+    "mood": "cautious",
+    "camera_view": "medium shot",
+    "lighting": "natural light filtering through the trees",
+    "text": "SPEAKER_01: It'll be about two days... SPEAKER_02: But yeah,,, he has offered you to do the supply run..."
+  }
+]

@@ -1,0 +1,1347 @@
+[
+  {
+    "setting": "a forest with trees and a chalkboard",
+    "characters": [
+      "Magnus",
+      "Taco",
+      "Merle"
+    ],
+    "objects": [
+      "list on a tree",
+      "chalkboard"
+    ],
+    "action": "Craig writes on the chalkboard",
+    "mood": "casual, everyday routine",
+    "camera_view": "medium shot of Craig and the list",
+    "lighting": "natural light filtering through trees",
+    "text": "A daily reminder of friendships... "
+  },
+  {
+    "setting": "a dimly lit tavern",
+    "characters": [
+      {
+        "name": "SPEAKER_00",
+        "description": "a lone adventurer"
+      }
+    ],
+    "objects": [
+      {
+        "type": "paper",
+        "description": "a tattered piece of paper pinned to a notice board"
+      },
+      {
+        "type": "quill",
+        "description": "a quill pen on the table next to the adventurer"
+      }
+    ],
+    "action": "SPEAKER_00 is attempting to recruit allies",
+    "mood": "somber",
+    "camera_view": "over-the-shoulder of SPEAKER_00",
+    "lighting": "warm, soft tavern lighting",
+    "text": "\"Want to make friends? Join my list... Pin my name here...\""
+  },
+  {
+    "setting": "A dense forest",
+    "characters": [
+      {
+        "id": "M",
+        "name": "M for M",
+        "image": "/m-for-m.png"
+      }
+    ],
+    "objects": [],
+    "action": "A figure is rummaging through their backpack",
+    "mood": "Hungry and frustrated",
+    "camera_view": "Close-up of the character's face, with a faint image of a forest behind them",
+    "lighting": "Soft, natural light filtering through the trees above",
+    "text": "\"I've got a huge...\""
+  },
+  {
+    "setting": "Forest",
+    "characters": [
+      {
+        "name": "Eilif Stonefist",
+        "portrait": "A sturdy dwarf with an axe"
+      }
+    ],
+    "objects": [
+      "Tree"
+    ],
+    "action": " Searching for a young adventurer",
+    "mood": "Mysterious",
+    "camera_view": "Medium shot of Eilif",
+    "lighting": "Dappled sunlight filtering through the trees",
+    "text": "SPEAKER_00: Looking for a young stud... A young dry.ad..."
+  },
+  {
+    "setting": "A dense forest with ancient trees",
+    "characters": [
+      {
+        "name": "SPEAKER_00",
+        "position": "center-left",
+        "expression": ":confused:"
+      },
+      {
+        "name": "SPEAKER_02",
+        "position": "center-right",
+        "expression": ":smirking:"
+      }
+    ],
+    "objects": [],
+    "action": "Two dryads are talking to each other, seemingly in a heated conversation.",
+    "mood": "Suspenseful",
+    "camera_view": "Medium shot with the two characters facing each other",
+    "lighting": "Soft focus with dappled shadows from the trees above",
+    "text": "\"You dryads down the clo.wn.?\""
+  },
+  {
+    "setting": "A neglected woodworking shop",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "frustrated"
+      },
+      {
+        "name": "Tra",
+        "expression": ""
+      }
+    ],
+    "objects": [
+      "workbench",
+      "half-finished chair"
+    ],
+    "action": "SPEAKER_02 gestures towards the unfinished chair",
+    "mood": "uninspired",
+    "camera_view": "close-up of SPEAKER_02's face",
+    "lighting": "dim, with shadows on the walls",
+    "text": "And you have a hard time doing work that does not involve goblins and or skeletons... Tra,vis,, your carpentry is.... Nobody wants chairs nowa.day.s..."
+  },
+  {
+    "setting": "a dimly lit, medieval-style tavern",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "description": "",
+        "expression": ": thoughtful"
+      }
+    ],
+    "objects": [],
+    "action": "A patron leans against a wooden bar, contemplating the future of iron-based technology.",
+    "mood": "skeptical",
+    "camera_view": "medium shot",
+    "lighting": "soft, warm glow from candles and fire pit",
+    "text": "SPEAKER_02: People are more into iron rot things...\nSPEAKER_02: You know,, iron's going to go out...\nSPEAKER_02: Yeah,..."
+  },
+  {
+    "setting": "A dimly lit comic book store",
+    "characters": [
+      {
+        "name": "Speaker_02",
+        "description": "A bespectacled fanboy"
+      }
+    ],
+    "objects": [
+      {
+        "type": "Comic books",
+        "quantity": 10,
+        "position": "Shelves in the back of the store"
+      },
+      {
+        "type": "Older comic book issues",
+        "quantity": 5,
+        "position": "On a display rack near the counter"
+      }
+    ],
+    "action": "Speaker_02 is browsing through old comic books",
+    "mood": "Anticipation and nostalgia",
+    "camera_view": "Medium close-up, focusing on Speaker_02's face",
+    "lighting": "Dim store lighting with a hint of color from the comics",
+    "text": "\"Go out of fashion... People will be back into .wick.er... Bronze age has got to end some,time,, right???\""
+  },
+  {
+    "setting": "a forest floor with ancient wooden structures in the background",
+    "characters": [
+      {
+        "name": "Eilif Stonefist",
+        "description": "dressed in leather armor, holding a massive battle-axe"
+      },
+      {
+        "name": "Lila Earthsong",
+        "description": "wearing a cloak with leaves and vines embroidered on it, holding a shortbow and quiver"
+      }
+    ],
+    "objects": [],
+    "action": "Eilif and Lila are standing back-to-back, looking around cautiously",
+    "mood": "alertness and curiosity",
+    "camera_view": "over-the-shoulder view of Eilif, with a slight tilt to include Lila's reaction",
+    "lighting": "warm sunlight filtering through the trees above",
+    "text": "\"And then it's going to get retro back into wood...\""
+  },
+  {
+    "setting": "A dimly lit tavern",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "description": "a patron at the bar"
+      }
+    ],
+    "objects": [
+      "bar",
+      "drinks"
+    ],
+    "action": "Conversation between patrons",
+    "mood": "Casual, relaxed",
+    "camera_view": "Medium shot of SPEAKER_02",
+    "lighting": "Warm glow from lanterns and candles",
+    "text": "Over drinks one night with Merle's cousin, whose name is... Shi.t.."
+  },
+  {
+    "setting": "Fantasy realm with dense forest and towering trees",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "description": "A tired Dungeon Master flipping through a large booklet"
+      }
+    ],
+    "objects": [
+      "a large, worn-out campaign book",
+      "pencils, paper, and eraser"
+    ],
+    "action": "SPEAKER_02 is scrolling through the pages of the campaign book, looking exasperated",
+    "mood": "frustration",
+    "camera_view": "close-up on SPEAKER_02's face, with a hint of the booklet in the background",
+    "lighting": "dim, with a warm glow from a nearby candle",
+    "text": "\"His name.... These names are out of control... I may eventually shed the booklet I'm going out of,\""
+  },
+  {
+    "setting": "A dimly lit tavern, patrons murmuring in the background",
+    "characters": [
+      "Gundren Rockseeker",
+      "PC1",
+      "PC2",
+      "PC3"
+    ],
+    "objects": [
+      "bar counter",
+      "pint of ale",
+      "mugs on a shelf",
+      "patrons"
+    ],
+    "action": "Gundren approaches the group, eyeing them suspiciously",
+    "mood": "Suspenseful, with hints of danger",
+    "camera_view": "Medium shot, focusing on Gundren's approach",
+    "lighting": "Soft tavern lighting, casting warm shadows",
+    "text": "\"What brings you folks to Oakwood?\""
+  },
+  {
+    "setting": "A dimly lit tavern interior",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": ":)",
+        "pose": "leaning on the bar"
+      }
+    ],
+    "objects": [
+      "bar",
+      "mugs",
+      "ale jugs"
+    ],
+    "action": "SPEAKER_02 is speaking to the bartender",
+    "mood": "cautious and inebriated",
+    "camera_view": "medium shot, focused on SPEAKER_02's face",
+    "lighting": "soft tavern lighting, warm glow",
+    "text": "\"Maybe you've had a few drink.s...\""
+  },
+  {
+    "setting": "Dungeon tavern",
+    "characters": [
+      {
+        "name": "",
+        "expression": "confident",
+        "pose": "standing"
+      },
+      {
+        "name": "SPEAKER_01",
+        "expression": "assertive",
+        "pose": "standing"
+      }
+    ],
+    "objects": [
+      "bar",
+      "tables"
+    ],
+    "action": "SPEAKER_01 defends a fellow adventurer",
+    "mood": "defensive",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "No,,, he can hold his own..."
+  },
+  {
+    "setting": "A dimly lit tavern",
+    "characters": [
+      {
+        "name": "SPEAKER_01",
+        "expression": ":)",
+        "pose": "leaning on table"
+      },
+      {
+        "name": "SPEAKER_02",
+        "expression": "confused",
+        "pose": "skeptical, holding a mug"
+      }
+    ],
+    "objects": [
+      {
+        "type": "cider jug",
+        "location": "tabletop"
+      },
+      {
+        "type": "mug",
+        "location": "SPEAKER_02's hand"
+      }
+    ],
+    "action": "SPEAKER_01 is teasing SPEAKER_02 about the cider.",
+    "mood": "amused",
+    "camera_view": "close-up of SPEAKER_01 and SPEAKER_02",
+    "lighting": "warm, tavern lighting",
+    "text": [
+      {
+        "speaker": "SPEAKER_02",
+        "lines": [
+          "I mean, it's pretty weak as ciders go...",
+          "Like, 3.2..."
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "lines": [
+          "He's the Andrew WK of D.&.D..."
+        ]
+      }
+    ]
+  },
+  {
+    "setting": "A dimly lit office with a large wooden desk",
+    "characters": [
+      {
+        "name": "Oversighter",
+        "description": "A stern-looking man in a suit"
+      },
+      {
+        "name": "SPEAKER_02",
+        "description": "A young adventurer looking intrigued"
+      }
+    ],
+    "objects": [
+      "a briefcase on the floor"
+    ],
+    "action": "Oversighter is speaking to SPEAKER_02 and the others",
+    "mood": "formal, yet slightly nervous",
+    "camera_view": "Medium shot of Oversighter with SPEAKER_02 in the background",
+    "lighting": "Soft, overhead lighting with a hint of shadow",
+    "text": "\"You're right... Oversighter, he talks to you guys about an exciting opportunity... He seems pretty straight-laced...\""
+  },
+  {
+    "setting": "Dwarven tavern",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "skeptical"
+      }
+    ],
+    "objects": [],
+    "action": "Speaking to a dwarf in a gruff manner",
+    "mood": "Serious",
+    "camera_view": "Medium shot of SPEAKER_02 and the dwarf",
+    "lighting": "Dim, with candles and lanterns lighting the tavern",
+    "text": "\"He seems like he's not giving you no bull shit...\""
+  },
+  {
+    "setting": "Dungeon Corridor",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "description": "",
+        "expression": ":confused:",
+        "pose": "standing"
+      }
+    ],
+    "objects": [
+      "stone walls",
+      "torch on the ground"
+    ],
+    "action": "A figure hesitates to follow up.",
+    "mood": "tense",
+    "camera_view": "medium shot",
+    "lighting": "dim torchlight",
+    "text": "\"That... Do it or I'll walk...\""
+  },
+  {
+    "setting": "A dark and mysterious cave",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "confused"
+      }
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 is listening to a low grunt",
+    "mood": "tense",
+    "camera_view": "close-up of SPEAKER_02's face",
+    "lighting": "dim, cave-like lighting",
+    "text": "\"That's how he sounds...\""
+  },
+  {
+    "setting": "A dimly lit tavern",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "thoughtful",
+        "pose": "leaning on the bar"
+      }
+    ],
+    "objects": [
+      "a mug of ale",
+      "a worn leather satchel"
+    ],
+    "action": "SPEAKER_02 is speaking to a friend in hushed tones",
+    "mood": "cautious optimism",
+    "camera_view": "medium shot, focusing on SPEAKER_02's face",
+    "lighting": "warm tavern lighting, with a hint of shadow",
+    "text": "\"He has to offer you what he calls the last job you'll ever need to take...\""
+  },
+  {
+    "setting": "A dimly lit tavern interior with patrons in the background",
+    "characters": [
+      {
+        "name": "Mer.le",
+        "emotion": "curious"
+      },
+      {
+        "name": "SPEAKER_02",
+        "emotion": "nervous"
+      }
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 is speaking to Mer.le in a hushed tone",
+    "mood": "Suspenseful",
+    "camera_view": "Medium shot, framing the conversation between the two characters",
+    "lighting": "Soft, warm lighting from candles and lanterns",
+    "text": "Maybe he's doing it as a favor to you,, Mer.le... Maybe he, uh, knows that you've had some hard times la.tely..."
+  },
+  {
+    "setting": "a crowded tavern",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "concerned"
+      },
+      {
+        "name": "Fantasy Jesus",
+        "expression": "unenthused"
+      }
+    ],
+    "objects": [
+      "thick wooden table",
+      "mugs of ale"
+    ],
+    "action": "SPEAKER_02 speaking to Fantasy Jesus",
+    "mood": "tense and skeptical",
+    "camera_view": "over-the-shoulder shot of SPEAKER_02",
+    "lighting": "dim, with candles on the table",
+    "text": "Yeah,,, the religion business is not good...\nNo.\nPeople are not crazy about Fantasy, Jesus..."
+  },
+  {
+    "setting": "Dungeon corridor",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "",
+        "pose": ""
+      }
+    ],
+    "objects": [],
+    "action": "confused look on face",
+    "mood": "perplexed",
+    "camera_view": "medium shot",
+    "lighting": "dim",
+    "text": "\"Who's your...?\""
+  },
+  {
+    "setting": "Dungeon hallway",
+    "characters": [
+      {
+        "name": "Dwi.n",
+        "expression": ":angry:",
+        "pose": "standing"
+      }
+    ],
+    "objects": [],
+    "action": "confrontation",
+    "mood": "tense",
+    "camera_view": "medium shot",
+    "lighting": "dramatic shadows",
+    "text": "SPEAKER_02: Who's your god??? Oh,,, that would be Mardhammer Dwi.n... I'm just gonna go with Dwi.n..."
+  },
+  {
+    "setting": "A dimly lit audition room",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "serious"
+      },
+      {
+        "name": "applicant",
+        "expression": "confused"
+      }
+    ],
+    "objects": [
+      "audition table",
+      " chairs"
+    ],
+    "action": "SPEAKER_02 is explaining the situation to the applicant",
+    "mood": "nervous",
+    "camera_view": "medium shot, focusing on SPEAKER_02's face",
+    "lighting": "soft overhead lighting",
+    "text": "SPEAKER_02: He basically wants to audition you... To see if you are capable of handling.... So is this like a?...."
+  },
+  {
+    "setting": "A dimly lit dungeon chamber",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "",
+        "pose": ""
+      }
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 paces back and forth in front of a large stone door",
+    "mood": "Anticipation, uncertainty",
+    "camera_view": "Medium shot, SPEAKER_02 centered in frame",
+    "lighting": "Low-key, with hints of torchlight",
+    "text": ""
+  },
+  {
+    "setting": "Dungeon hallway",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": ":/",
+        "pose": "shrugging"
+      }
+    ],
+    "objects": [],
+    "action": "Thinking deeply",
+    "mood": "Confused",
+    "camera_view": "Medium shot, looking down at SPEAKER_02",
+    "lighting": "Soft, dim dungeon lighting",
+    "text": "\"One that shows impotent .rage...\""
+  },
+  {
+    "setting": "Dark forest",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "position": "center"
+      }
+    ],
+    "objects": [],
+    "action": "Speech bubble released",
+    "mood": "Confusion",
+    "camera_view": "Medium shot",
+    "lighting": "Shadows cast on trees",
+    "text": [
+      {
+        "speaker": "SPEAKER_02",
+        "line": "Sla.ying..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "line": "Uh....."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "line": ".Protect.ing..."
+      }
+    ]
+  },
+  {
+    "setting": "Forest",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "description": "A mysterious figure"
+      }
+    ],
+    "objects": [],
+    "action": "Speaking to the party",
+    "mood": "Serious",
+    "camera_view": "Medium shot of SPEAKER_02",
+    "lighting": "Soft, natural light",
+    "text": "Adventuring, essentially..."
+  },
+  {
+    "setting": "a dimly lit tavern in the town of Neverwinter",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "nervous"
+      },
+      {
+        "name": "PLAYER_01",
+        "expression": ""
+      },
+      {
+        "name": "PLAYER_02",
+        "expression": ""
+      },
+      {
+        "name": "PLAYER_03",
+        "expression": ""
+      }
+    ],
+    "objects": [
+      "barrels, tables, patrons"
+    ],
+    "action": "SPEAKER_02 is speaking to the players",
+    "mood": "tense",
+    "camera_view": "medium shot",
+    "lighting": "dimmly lit with lanterns and candles",
+    "text": "From the..... The town of Never.w.inter...... Where the three of you are currently held up......."
+  },
+  {
+    "setting": "a fantasy world map with a distant town labeled Phan.dal.in",
+    "characters": [
+      "SPEAKER_02",
+      "multiple townspeople"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 is standing on a hilltop, pointing to the town of Phan.dal.in in the distance",
+    "mood": "skeptical and sarcastic",
+    "camera_view": "medium shot, focusing on SPEAKER_02's gesture",
+    "lighting": "warm sunlight with long shadows across the landscape",
+    "text": "To the town of Phan.dal.in... Which.... None of you have actually been to....."
+  },
+  {
+    "setting": "A dimly lit tavern",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": ": confused face"
+      }
+    ],
+    "objects": [
+      {
+        "type": "table",
+        "description": "A wooden table with mugs and plates scattered on it"
+      },
+      {
+        "type": "bar",
+        "description": "A counter with a tap behind it, serving ale to the patrons"
+      }
+    ],
+    "action": "SPEAKER_02 looks unsure about what to say next",
+    "mood": "awkwardness fills the air",
+    "camera_view": "Medium shot of SPEAKER_02 from across the tavern table",
+    "lighting": "Dim candles and firelight illuminate the room",
+    "text": "\"Uh..... But maybe you.... Um.....\""
+  },
+  {
+    "setting": "A dimly lit tavern",
+    "characters": [
+      {
+        "name": "SPEAKER_01",
+        "expression": "amused"
+      },
+      {
+        "name": "SPEAKER_02",
+        "expression": "sheepish"
+      }
+    ],
+    "objects": [
+      "d20 die, ale mugs"
+    ],
+    "action": "A player rolls a d20 with an insult",
+    "mood": "humorous",
+    "camera_view": "Medium shot of the two players at a table",
+    "lighting": "Warm tavern lighting",
+    "text": "\"Because I'm not very intelligent...\""
+  },
+  {
+    "setting": "A dimly lit tavern",
+    "characters": [
+      {
+        "name": "Player",
+        "expression": "confused"
+      },
+      {
+        "name": "DM",
+        "expression": "amused"
+      }
+    ],
+    "objects": [
+      "Dice, Rulebook"
+    ],
+    "action": "The player hesitates over a dice roll.",
+    "mood": "Confusion",
+    "camera_view": "Medium shot, focusing on the player's reaction",
+    "lighting": "Soft, tavern lighting",
+    "text": "\"Uh..... It's actually a wisdom-based roll...\""
+  },
+  {
+    "setting": "A dark cave with ancient stones and flickering torches",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "",
+        "pose": ""
+      }
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 is paused, looking confused",
+    "mood": "Confused and slightly worried",
+    "camera_view": "Medium shot of SPEAKER_02's face",
+    "lighting": "Dramatic shadows on the cave walls",
+    "text": "\"What you..... History.? Well,,, basically all those....\""
+  },
+  {
+    "setting": "Ancient Library",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "Regretful",
+        "pose": "Slumped"
+      }
+    ],
+    "objects": [
+      "Dusty Tome",
+      "Flickering Candle"
+    ],
+    "action": "Speaking words of sorrow",
+    "mood": "Melancholic",
+    "camera_view": "Medium shot",
+    "lighting": "Soft, ambient",
+    "text": "\"No,,, I'm sorry...\""
+  },
+  {
+    "setting": "A fantasy world with rolling hills and towering trees",
+    "characters": [
+      {
+        "name": "SPEAKER_01",
+        "description": "Excited adventurer"
+      },
+      {
+        "name": "SPEAKER_02",
+        "description": "Agreeable companion"
+      }
+    ],
+    "objects": [],
+    "action": "SPEAKER_01 is eagerly anticipating their first roll in the fantasy world",
+    "mood": "Euphoric and anticipatory",
+    "camera_view": "Close-up on SPEAKER_01's enthusiastic face",
+    "lighting": "Soft, natural light with a warm glow",
+    "text": "\"Can I roll???\""
+  },
+  {
+    "setting": "A fantastical realm with rolling hills and misty forests",
+    "characters": [
+      {
+        "name": "",
+        "expression": "confused",
+        "pose": "leaning forward"
+      },
+      {
+        "name": "SPEAKER_02",
+        "expression": "corrective",
+        "pose": ""
+      }
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "inquisitive",
+    "camera_view": "over-the-shoulder of SPEAKER_02",
+    "lighting": "soft, diffused",
+    "text": "SPEAKER_01: This magical fantasy world... / SPEAKER_02: What about Fall?ad?win??? / SPEAKER_02: It's Phan.dal.in..."
+  },
+  {
+    "setting": "Old Mining Town of Phandalin",
+    "characters": [
+      {
+        "name": "SPEAKER_01",
+        "expression": ":"
+      },
+      {
+        "name": "SPEAKER_02",
+        "expression": "bored expression"
+      }
+    ],
+    "objects": [],
+    "action": "Speaking and discussing the town's history",
+    "mood": "Casual discussion",
+    "camera_view": "Medium shot of two adventurers talking in an alleyway",
+    "lighting": "Soft, natural light",
+    "text": "\"That Phandalin is an old mining town...\" - SPEAKER_02"
+  },
+  {
+    "setting": "abandoned mine",
+    "characters": [
+      {
+        "name": "Speaker_02",
+        "expression": "narrating"
+      }
+    ],
+    "objects": [],
+    "action": "pointing at a ravaged area",
+    "mood": "grim, somber",
+    "camera_view": "over-the-shoulder",
+    "lighting": "soft, dim",
+    "text": "They had a very productive motherlode operation going on there..."
+  },
+  {
+    "setting": "Dark cave system with ancient mining tunnels",
+    "characters": [
+      {
+        "name": "",
+        "expression": ""
+      }
+    ],
+    "objects": [],
+    "action": "Explorers examining an old mine shaft",
+    "mood": "Intrigue",
+    "camera_view": "Medium shot of the mine entrance",
+    "lighting": "Dim, with flickering torches",
+    "text": [
+      {
+        "speaker": "",
+        "dialogue": "Do we know what they were mining???"
+      },
+      {
+        "speaker": "",
+        "dialogue": "Actually,, they were mining magical ores..."
+      },
+      {
+        "speaker": "",
+        "dialogue": "They found a deep magical vein within the earth..."
+      }
+    ]
+  },
+  {
+    "setting": "a medieval-style fantasy town in ruins",
+    "characters": [
+      "Speaker_02",
+      "Orcs"
+    ],
+    "objects": [
+      "smoldering buildings",
+      "rubble-strewn streets"
+    ],
+    "action": "Orcs pillage and destroy a previously prosperous town",
+    "mood": "chaotic, ominous",
+    "camera_view": "A wide shot of the devastated town, with Speaker_02 in the foreground",
+    "lighting": "grimy, with sun setting behind the smoke-filled sky",
+    "text": "Speaker_02: ...But it was basically destroyed by a wave of orcs that swept over the land..."
+  },
+  {
+    "setting": "Dungeon ruins",
+    "characters": [
+      {
+        "name": "Speaker_02",
+        "description": "",
+        "expression": ""
+      }
+    ],
+    "objects": [],
+    "action": "Gazing at the rebuilt vein",
+    "mood": "Curiosity",
+    "camera_view": "Medium close-up on Speaker_02's face",
+    "lighting": "Dim, dungeon candlelight",
+    "text": "Speaker_02: It's on the up and up now...It's sort of being re.built...So the vein is still there,, right???"
+  },
+  {
+    "setting": "Ancient Mine Caverns",
+    "characters": [
+      {
+        "name": "",
+        "expression": ":thoughtful:"
+      }
+    ],
+    "objects": [],
+    "action": "Examining the old mine shaft",
+    "mood": "Nostalgic",
+    "camera_view": "Medium close-up on Speaker_02's face",
+    "lighting": "Dim, with flickering torches in the background",
+    "text": {
+      "speech_bubble": {
+        "content": [
+          "\"The vein of magic ores still there..\"",
+          "\"It's long since been lost...\"",
+          "\"This was long ago...\""
+        ]
+      }
+    }
+  },
+  {
+    "setting": "A dusty, abandoned town with a few scattered buildings",
+    "characters": [
+      {
+        "name": "NPC Speaker_02",
+        "expression": "thoughtful",
+        "pose": "leaning on a broken fence"
+      }
+    ],
+    "objects": [
+      {
+        "type": "building",
+        "status": "ruined"
+      },
+      {
+        "type": "tools",
+        "status": "scattered"
+      }
+    ],
+    "action": "Speaker_02 is describing the town's state to others",
+    "mood": "resigned, yet hopeful",
+    "camera_view": "Medium shot, focusing on Speaker_02",
+    "lighting": "Dull sunlight, with shadows cast by broken buildings",
+    "text": "\"They don't have that economy anymore...\""
+  },
+  {
+    "setting": "A dirty, rundown mining town in the wilderness",
+    "characters": [
+      {
+        "name": "Gundren",
+        "expression": "grim"
+      }
+    ],
+    "objects": [
+      "a mine cart",
+      "old mining equipment"
+    ],
+    "action": "Gundren speaks to another character about the town being even worse than Deadwood",
+    "mood": "melancholic",
+    "camera_view": "close-up of Gundren's face",
+    "lighting": "dim, with only a few candles lit in the mine cart",
+    "text": {
+      "speaker": "Gundren",
+      "lines": [
+        "\"Shittier than Deadwood\"",
+        "\"which already wasn't super great...\"",
+        "\"Gundren.\"\"",
+        "\"And Gundren...\""
+      ]
+    }
+  },
+  {
+    "setting": "A bustling town square in Fandolin",
+    "characters": [
+      {
+        "name": "Speaker_02",
+        "expression": "inquisitive"
+      },
+      {
+        "name": "Gundren",
+        "expression": "determined"
+      }
+    ],
+    "objects": [
+      "a large stone reconstruction of a building"
+    ],
+    "action": "Merle and Gundren stand facing each other, engaged in conversation",
+    "mood": "tense",
+    "camera_view": "medium shot",
+    "lighting": "warm golden light of late afternoon",
+    "text": "SPEAKER_02: But Gundren seems very invested in that town..."
+  },
+  {
+    "setting": "a dusty road with a wagon in the distance",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "description": "looking unenthused"
+      },
+      {
+        "name": "Fa.ndo.lin's messenger",
+        "description": "standing next to a map"
+      }
+    ],
+    "objects": [
+      "wagon",
+      "map",
+      "mountains in the background"
+    ],
+    "action": "SPEAKER_02 is pointing at the map",
+    "mood": "unimpressed",
+    "camera_view": "medium shot, looking down at SPEAKER_02 and the messenger",
+    "lighting": "overcast sky with indirect sunlight",
+    "text": "\"It's about a two, three day ride on a wa.gon...\""
+  },
+  {
+    "setting": "a dark forest",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "determined"
+      }
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 looking ahead with a serious expression",
+    "mood": "tense",
+    "camera_view": "medium shot",
+    "lighting": "dim moonlight filtering through the trees",
+    "text": {
+      "bubble": {
+        "content": "Well,,, he's going to get it...",
+        "position": "lower left"
+      }
+    }
+  },
+  {
+    "setting": "Dark alleyway at night",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "Confused and hesitant"
+      }
+    ],
+    "objects": [
+      "Wall",
+      "Shadows"
+    ],
+    "action": "SPEAKER_02 is looking uncertainly at a figure in the shadows",
+    "mood": "Suspenseful",
+    "camera_view": "Medium shot of SPEAKER_02's face",
+    "lighting": "Dim, with only faint moonlight illuminating the scene",
+    "text": "\"Well,,, you don.'.t....\""
+  },
+  {
+    "setting": "A dimly lit tavern alleyway at dusk",
+    "characters": [
+      {
+        "name": "Mer.le",
+        "expression": "inquisitive"
+      },
+      {
+        "name": "SPEAKER_02",
+        "expression": ""
+      }
+    ],
+    "objects": [
+      {
+        "type": "wagon",
+        "status": "loaded"
+      },
+      {
+        "type": "bags",
+        "status": "unattended"
+      }
+    ],
+    "action": "Mer.le leans in, listening to SPEAKER_02's proposal",
+    "mood": "cautious",
+    "camera_view": "Medium shot, focusing on the conversation between Mer.le and SPEAKER_02",
+    "lighting": "Warm, golden light from torches flickering outside",
+    "text": "\"He has asked you basically to transport a wagon full of goods...\""
+  },
+  {
+    "setting": "Forest",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": "cautious"
+      },
+      {
+        "name": "SPEAKER_01",
+        "expression": "exasperated"
+      }
+    ],
+    "objects": [],
+    "action": "Two adventurers stand at a map, planning their route.",
+    "mood": "Foreboding",
+    "camera_view": "Medium Shot",
+    "lighting": "Soft Natural Light",
+    "text": "\"From Neverwinter to Fa.ndo.lin... And it sounds like a pretty easy job,, but you never know...\""
+  },
+  {
+    "setting": "A dimly lit chamber with ancient tomes and dusty artifacts",
+    "characters": [
+      {
+        "name": "SPEAKER_01",
+        "description": "a skeptical adventurer",
+        "expression": "smirking"
+      },
+      {
+        "name": "SPEAKER_02",
+        "description": "a frantic scholar",
+        "expression": "worried"
+      }
+    ],
+    "objects": [
+      {
+        "type": "tome",
+        "open": false
+      },
+      {
+        "type": "candle",
+        "lit": true
+      }
+    ],
+    "action": "SPEAKER_02 is frantically rummaging through the shelves",
+    "mood": "tension",
+    "camera_view": "medium shot",
+    "lighting": "warm candlelight",
+    "text": [
+      "No,,, no,,, no...",
+      "We're going to get....",
+      "This is stage setting..."
+    ]
+  },
+  {
+    "setting": "Dungeon lair",
+    "characters": [
+      {
+        "name": "SPEAKER_01",
+        "description": "",
+        "expression": "confused"
+      }
+    ],
+    "objects": [],
+    "action": "SPEAKER_01 asks if it's a game",
+    "mood": "baffled",
+    "camera_view": "close-up",
+    "lighting": "dim",
+    "text": [
+      {
+        "speaker": "SPEAKER_01",
+        "dialogue": "Is this a game???"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "dialogue": "Is Dungeons & Dragons listening to you do ?exposition???"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "dialogue": "No."
+      }
+    ]
+  },
+  {
+    "setting": "Fantasy forest with towering trees and misty atmosphere",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "expression": ":/",
+        "pose": "leaning against a tree"
+      }
+    ],
+    "objects": [],
+    "action": "a pause in the conversation",
+    "mood": "awkwardness and uncertainty",
+    "camera_view": "medium shot, focused on SPEAKER_02's face",
+    "lighting": "soft natural light filtering through the trees",
+    "text": "\"Not for the most part... Okay... I got to....\""
+  },
+  {
+    "setting": "A lush forest with tall trees and a small clearing",
+    "characters": [
+      {
+        "name": "The Adventurer",
+        "image": "",
+        "actions": [
+          "planting a seed"
+        ],
+        "expression": ""
+      }
+    ],
+    "objects": [
+      "seed, soil, shovel"
+    ],
+    "action": "Planting a seed in the ground",
+    "mood": "Hopeful and optimistic",
+    "camera_view": "Close-up on the adventurer's hands as they plant the seed",
+    "lighting": "Soft, natural light filtering through the trees above",
+    "text": "\"I've actually already planted this seed...\""
+  },
+  {
+    "setting": "A dimly lit tavern",
+    "characters": [
+      {
+        "name": "NPC 02",
+        "expression": "confused"
+      }
+    ],
+    "objects": [],
+    "action": "NPC 02 is negotiating with a patron",
+    "mood": "tense",
+    "camera_view": "medium shot",
+    "lighting": "warm, soft lighting",
+    "text": "A piece?. Each. Which, I mean, I'm not your boss,, but that's not a lot of money..."
+  },
+  {
+    "setting": "A dimly lit tavern from the past",
+    "characters": [
+      {
+        "name": "Player 01",
+        "expression": "confused"
+      },
+      {
+        "name": "Dungeon Master (DM)",
+        "expression": "smiling knowingly"
+      }
+    ],
+    "objects": [],
+    "action": "The DM reveals a shocking truth to Player 01",
+    "mood": "suspenseful",
+    "camera_view": "medium shot, focused on the players and DM",
+    "lighting": "warm tavern lighting with shadows",
+    "text": "\"This actually did happen in the past...\""
+  },
+  {
+    "setting": "A dimly lit tavern, shady characters huddled in the corner",
+    "characters": [
+      {
+        "name": "Speaker_02",
+        "expression": "",
+        "pose": "leaning forward, eyes locked on listener"
+      }
+    ],
+    "objects": [],
+    "action": "The speaker leans in closer to negotiate terms",
+    "mood": "Suspenseful, with hints of danger lurking beneath the surface",
+    "camera_view": "Medium shot, focusing on Speaker_02's intense gaze",
+    "lighting": "Low-key lighting, emphasizing shadows and creating tension",
+    "text": "Speaker_02: Yeah, payment on arrival, maybe you can try and negotiate..."
+  },
+  {
+    "setting": "a dark alleyway at night",
+    "characters": [
+      {
+        "name": "Speaker_02",
+        "expression": "smirking"
+      },
+      {
+        "name": "Protagonist",
+        "expression": "skeptical"
+      }
+    ],
+    "objects": [
+      "a worn leather pouch in Speaker_02's hand"
+    ],
+    "action": "Speaker_02 is handing the protagonist a small pouch",
+    "mood": "uneasy",
+    "camera_view": "medium shot, focusing on the pouch and the protagonists' reaction",
+    "lighting": "dim streetlights casting long shadows",
+    "text": "The payment's not great,, but the promise that the last job you'll ever need to do certainly did it for you..."
+  },
+  {
+    "setting": "Dusty road",
+    "characters": [
+      {
+        "name": "DM",
+        "expression": "confused"
+      },
+      {
+        "name": "Hero1",
+        "expression": "concerned"
+      }
+    ],
+    "objects": [
+      "cart",
+      "road"
+    ],
+    "action": "Driving down a dusty road, questioning the driver's role.",
+    "mood": "Confusion and uncertainty",
+    "camera_view": "Medium shot of the cart on the road",
+    "lighting": "Bright sunlight with shadows cast by trees",
+    "text": "Am I driving the cart???"
+  },
+  {
+    "setting": "Dungeon interior with stone walls and torches",
+    "characters": [
+      {
+        "name": "Eilif Stonefist",
+        "expression": "surprised"
+      },
+      {
+        "name": "Gundrik Ironforged",
+        "expression": "incredulous"
+      }
+    ],
+    "objects": [],
+    "action": "SPEAKER_02: Do you really???",
+    "mood": "Surprise and skepticism",
+    "camera_view": "Medium shot of Gundrik's reaction",
+    "lighting": "Warm torchlight with shadows on the walls",
+    "text": ""
+  },
+  {
+    "setting": "A car interior at night",
+    "characters": [
+      {
+        "name": "SPEAKER_02",
+        "position": "driver",
+        "expression": "?"
+      },
+      {
+        "name": "SPEAKER_01",
+        "position": "passenger",
+        "expression": ""
+      }
+    ],
+    "objects": [
+      "steering wheel",
+      "dashboard"
+    ],
+    "action": "Speaking in hushed tones",
+    "mood": "Tension",
+    "camera_view": "Close-up on SPEAKER_02's face",
+    "lighting": "Soft, dim interior lights",
+    "text": "SPEAKER_02: I do...\nSPEAKER_01: You can be driving the car...\nSPEAKER_02: So you can say..."
+  },
+  {
+    "setting": "Dusty open road",
+    "characters": [
+      {
+        "name": "SPEAKER_01",
+        "description": "Dungeoneer looking concerned"
+      },
+      {
+        "name": "SPEAKER_02",
+        "description": "Party member with a hint of confusion"
+      }
+    ],
+    "objects": [
+      "covered Conestoga wagon",
+      "oxen"
+    ],
+    "action": "Party members questioning their transportation",
+    "mood": "Confusion and uncertainty",
+    "camera_view": "Medium shot, showing party members in conversation",
+    "lighting": "Bright sunlight overhead",
+    "text": [
+      {
+        "speaker": "SPEAKER_02",
+        "speech": "Did he give us a map???"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "speech": "Do we know how long of a ride it is???"
+      }
+    ]
+  },
+  {
+    "setting": "A dark forest at dusk",
+    "characters": [
+      {
+        "name": "Dungeon Explorer",
+        "expression": ":thoughtful:",
+        "position": "center"
+      }
+    ],
+    "objects": [],
+    "action": "The Dungeon Explorer pauses to think about the journey ahead",
+    "mood": "Serious and contemplative",
+    "camera_view": "Medium shot, eye level with the character",
+    "lighting": "Soft, golden light from the setting sun",
+    "text": "It'll be about two days..."
+  }
+]

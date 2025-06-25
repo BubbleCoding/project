@@ -1,0 +1,35 @@
+from diffusers import DiffusionPipeline
+import torch
+import datetime
+import re
+
+pipe = DiffusionPipeline.from_pretrained(
+    "stabilityai/stable-diffusion-xl-base-1.0",
+    torch_dtype=torch.float16,
+    use_safetensors=True,
+    variant="fp16"
+)
+
+pipe.load_lora_weights("lora/80sFantasyMovieMJ7SDXL.safetensors")
+pipe.to("cuda")
+
+def sanitize_filename(prompt):
+    return re.sub(r'[\\/*?:"<>| ]', '_', prompt)
+
+def generate_image_from_terminal(prompt, negative_prompt=None):
+    now = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    safe_prompt = sanitize_filename(prompt)
+    
+    image = pipe(
+        prompt=prompt,
+        negative_prompt=negative_prompt,
+        num_inference_steps=30,
+        guidance_scale=7.5
+    ).images[0]
+    
+    image.save(f"images/test/{now}_{safe_prompt}.png")
+
+generate_image_from_terminal(
+    prompt="Three dwarfs standing on a mountain top, close up, 80s fantasy movie style",
+    negative_prompt="blurry, low quality, deformed, extra limbs, text, watermark"
+)

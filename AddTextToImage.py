@@ -1,17 +1,16 @@
 from PIL import Image, ImageDraw, ImageFont
 
 def add_text_to_panel(text, panel_image):
-  text_image = generate_text_image(text, width = panel_image.width, height = panel_image.height)
+  text_image = generate_text_image(text, width = panel_image.width, height = 120)
 
   result_image = Image.new('RGB', (panel_image.width, panel_image.height + text_image.height))
 
   # Merge the panel image and text image
   result_image.paste(panel_image, (0, 0))
   result_image.paste(text_image, (0, panel_image.height))
-  result_image.save("./test.jpg")
   return result_image
 
-def generate_text_image(text, width = 1200, height = 120):
+def generate_text_image(text, width = 1144, height = 120):
   # Required varaibles
   font = ImageFont.truetype(font="manga-temple.ttf", size=30)
   words = text.split()
@@ -31,7 +30,6 @@ def generate_text_image(text, width = 1200, height = 120):
       sentence = ""
     sentence += word  + " "
   x = -1* (width - max_width) // 2
-  print(max_width)
   multiline_sentence += sentence
   draw.multiline_text((x, 0), multiline_sentence, fill=(0, 0, 0), font=font)
   return image

@@ -1,0 +1,3933 @@
+[
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 gestures to an empty chair, inviting the listener to sit.",
+    "mood": "intrigued",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "Our story actually starts with the three of you..."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "curious",
+    "camera_view": "close-up",
+    "lighting": "soft tavern lighting",
+    "text": "\"And you guys can establish, if you want, how Magnus and Taco and Merle know each other...\""
+  },
+  {
+    "setting": "A dimly lit, cramped internet cafe.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 scrolls through a computer screen.",
+    "mood": "casual",
+    "camera_view": "close-up",
+    "lighting": "fluorescent",
+    "text": "\"Craig's list...\""
+  },
+  {
+    "setting": "City streets with a bulletin board in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "casual",
+    "camera_view": "close-up",
+    "lighting": "natural daylight",
+    "text": "Craig's list..."
+  },
+  {
+    "setting": "A sunny forest with a tree in the center.",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [
+      "tree",
+      "list"
+    ],
+    "action": "SPEAKER_01 points to a list on the tree.",
+    "mood": "casual",
+    "camera_view": "medium shot",
+    "lighting": "natural light",
+    "text": "\"Which is actually a list that a gnome named Craig puts up on a tree every day...\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "Eilif Stonefist"
+    ],
+    "objects": [
+      "bar",
+      "mug"
+    ],
+    "action": "Eilif leans in, speaking quietly to the bard.",
+    "mood": "suspicious",
+    "camera_view": "medium shot",
+    "lighting": "warm firelight",
+    "text": "SPEAKER_01: At a tavern, perhaps..."
+  },
+  {
+    "setting": "Dungeon tavern, patrons in the background.",
+    "characters": [
+      "Taco"
+    ],
+    "objects": [
+      ""
+    ],
+    "action": "",
+    "mood": "friendly",
+    "camera_view": "medium shot",
+    "lighting": "warm glow of a fireplace",
+    "text": "SPEAKER_00: Want to make friends.?"
+  },
+  {
+    "setting": "Dark alleyway with city buildings in the background.",
+    "characters": [
+      "Sneaky",
+      "A mysterious figure"
+    ],
+    "objects": [],
+    "action": "Sneaky reaches out to touch a figure's hand.",
+    "mood": "intrigued",
+    "camera_view": "close-up shot",
+    "lighting": "soft luminescence",
+    "text": "\"Join my list...\""
+  },
+  {
+    "setting": "A dusty, dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_00"
+    ],
+    "objects": [],
+    "action": "SPEAKER_00 stands at a table, gesturing to an open space on a parchment.",
+    "mood": "thoughtful",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_00: Pin my name here..."
+  },
+  {
+    "setting": "Abandoned tavern in a dense forest.",
+    "characters": [
+      "M"
+    ],
+    "objects": [
+      "table",
+      "mug"
+    ],
+    "action": "M looks nervous, fidgeting with a mug on the table.",
+    "mood": "anxious",
+    "camera_view": "medium shot",
+    "lighting": "dimmly lit by candles",
+    "text": "SPEAKER_00: M for M..."
+  },
+  {
+    "setting": "Abandoned treasure cave, dusty and dimly lit.",
+    "characters": [
+      "SPEAKER_00"
+    ],
+    "objects": [
+      "map",
+      "compass"
+    ],
+    "action": "SPEAKER_00 holds up a tattered map to examine it more closely.",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "natural light filtering through the cave entrance",
+    "text": "SPEAKER_00: I've got a huge..."
+  },
+  {
+    "setting": "A dense forest with tall trees and overgrown underbrush.",
+    "characters": [
+      "Taco"
+    ],
+    "objects": [
+      "butchered rabbit"
+    ],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "dappled sunlight",
+    "text": "\"I've got a hungry but.\""
+  },
+  {
+    "setting": "A campsite in a dense forest with a small fire burning.",
+    "characters": [
+      "Taco"
+    ],
+    "objects": [
+      "a hungry-looking character (player), a plate of food"
+    ],
+    "action": "Taco holds up the plate and looks at Speaker_00.",
+    "mood": "hungry",
+    "camera_view": "close-up",
+    "lighting": "daylight filtering through the trees",
+    "text": "SPEAKER_00: Hungry butt over here..."
+  },
+  {
+    "setting": "Seedy tavern with shady patrons.",
+    "characters": [
+      "Sneak",
+      "Duke"
+    ],
+    "objects": [
+      "bar",
+      "glass"
+    ],
+    "action": "Sneak approaches the bar while Duke looks on.",
+    "mood": "suspicious",
+    "camera_view": "medium close-up",
+    "lighting": "soft tavern lighting",
+    "text": "SPEAKER_00: Looking for a young stud..."
+  },
+  {
+    "setting": "A dusty, old tavern with a fire crackling in the hearth.",
+    "characters": [
+      "SPEAKER_00"
+    ],
+    "objects": [],
+    "action": "The speaker stands alone at the bar, nursing a mug of ale.",
+    "mood": "melancholy",
+    "camera_view": "close-up",
+    "lighting": "warm firelight",
+    "text": "A young dryad..."
+  },
+  {
+    "setting": "Dusty forest clearing with ancient dryad trees.",
+    "characters": [
+      "Spartan"
+    ],
+    "objects": [
+      "speaking stone",
+      "wooden staff"
+    ],
+    "action": "A lone adventurer Spartan addresses a gathering of woodland creatures.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "soft natural light",
+    "text": "SPEAKER_00: You dryads down the clo.wn?."
+  },
+  {
+    "setting": "A cluttered internet cafe with a single laptop on a table.",
+    "characters": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "laptop",
+      "chair"
+    ],
+    "action": "The two adventurers sit across from each other, eyes fixed on the screen.",
+    "mood": "awkward",
+    "camera_view": "close-up",
+    "lighting": "soft glow of computer screens",
+    "text": "SPEAKER_02: So you find each other on Craig's list..."
+  },
+  {
+    "setting": "Dusty tavern with patrons murmuring in the background.",
+    "characters": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans against a wooden bar, eyeing SPEAKER_01 skeptically.",
+    "mood": "suspicious",
+    "camera_view": "close-up on SPEAKER_02",
+    "lighting": "warm tavern glow",
+    "text": "\"Maybe you've been doing some odd jobs around the economies and the shi.tter...\""
+  },
+  {
+    "setting": "A dusty, cluttered study with shelves full of ancient tomes.",
+    "characters": [
+      "Elara",
+      "Gundrik"
+    ],
+    "objects": [
+      "bookshelf",
+      "scroll"
+    ],
+    "action": "Elara browses through a shelf while Gundrik looks on.",
+    "mood": "inquisitive",
+    "camera_view": "medium shot",
+    "lighting": "soft candlelight",
+    "text": "SPEAKER_02: And you have a hard time doing work that does not involve goblins and or skelet.ons..."
+  },
+  {
+    "setting": "A small workshop with various tools and half-finished projects.",
+    "characters": [
+      "Tra,vis,,",
+      "inventor"
+    ],
+    "objects": [
+      "workbench",
+      "chisel"
+    ],
+    "action": "The inventor examines Tra,vis,,, work with a critical eye.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "natural light from a window",
+    "text": "SPEAKER_02: Tra,vis,, your carpentry is...."
+  },
+  {
+    "setting": "A crowded tavern with patrons arguing in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 gestures frustratedly with their hands.",
+    "mood": "angry",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "\"Nobody wants chairs nowa.day.s...\""
+  },
+  {
+    "setting": "A bustling market in a fantasy city, with stalls selling all manner of magical items.",
+    "characters": [
+      "Speaker_02"
+    ],
+    "objects": [
+      "market stall",
+      "stacks of iron rot-infested artifacts"
+    ],
+    "action": "Speaker_02 gestures to the various stalls, emphasizing their point.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "soft daylight",
+    "text": "SPEAKER_02: People are more into iron rot things..."
+  },
+  {
+    "setting": "",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 speaks hesitantly.",
+    "mood": "cautious",
+    "camera_view": "medium shot",
+    "lighting": "dim",
+    "text": "\"Yeah,..\""
+  },
+  {
+    "setting": "Old, abandoned tavern with faded signs and cobwebs.",
+    "characters": [
+      "Torchbearer",
+      "Narrator"
+    ],
+    "objects": [
+      "tavern sign",
+      "parchment"
+    ],
+    "action": "The Torchbearer rummages through dusty shelves while the Narrator looks on.",
+    "mood": "suspenseful",
+    "camera_view": "medium shot",
+    "lighting": "dim tavern lighting",
+    "text": "SPEAKER_02: Go out of fashion..."
+  },
+  {
+    "setting": "Abandoned ruin of a once-great city.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 speaks to an unseen audience.",
+    "mood": "ominous",
+    "camera_view": "medium shot",
+    "lighting": "flickering lanterns in the background",
+    "text": "SPEAKER_02: People will be back into .wick.er..."
+  },
+  {
+    "setting": "A dusty, dimly lit tavern with patrons in the background.",
+    "characters": [
+      "Taco"
+    ],
+    "objects": [
+      "pint of ale",
+      ""
+    ],
+    "action": "Taco leans against a bar, muttering to himself.",
+    "mood": "melancholic",
+    "camera_view": "medium shot",
+    "lighting": "distant candles",
+    "text": "\"Bronze age has got to end some,time,, right??\""
+  },
+  {
+    "setting": "Cave entrance with eerie silence.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "fog",
+      "stone pillars"
+    ],
+    "action": "SPEAKER_02 slowly approaches the cave entrance, looking uncertain.",
+    "mood": "anxious",
+    "camera_view": "medium shot",
+    "lighting": "dim luminescent glow",
+    "text": "\"M.m.-.h.mm...\""
+  },
+  {
+    "setting": "A dense forest with ancient trees and overgrown underbrush.",
+    "characters": [
+      "Eilif",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "wood, tree trunk"
+    ],
+    "action": "SPEAKER_02 gestures to the wood as Eilif listens intently.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "dappled sunlight",
+    "text": "\"And then it's going to get retro back into wood...\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "Speaker unknown"
+    ],
+    "objects": [
+      "mug",
+      "table"
+    ],
+    "action": "Speaker unknown leans in to whisper something to SPEAKER_02.",
+    "mood": "cautious",
+    "camera_view": "medium shot",
+    "lighting": "dull tavern lighting",
+    "text": "\"So the three of you have done a few jobs together,, probably...\""
+  },
+  {
+    "setting": "A dimly lit tavern, a figure with a hooded cloak sits across from Merle.",
+    "characters": [
+      "Merle",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "mug of ale",
+      "cousin's name on a piece of parchment"
+    ],
+    "action": "The cousin speaks in hushed tones, eyes darting around the room.",
+    "mood": "suspicious",
+    "camera_view": "close-up",
+    "lighting": "tavern lighting",
+    "text": "SPEAKER_02: Over drinks one night with Merle's cousin, whose name is...."
+  },
+  {
+    "setting": "Cavernous underground chamber with ancient stone walls.",
+    "characters": [
+      "Eilif"
+    ],
+    "objects": [],
+    "action": "Eilif crouches down, eyes fixed on the ground.",
+    "mood": "grim",
+    "camera_view": "medium shot",
+    "lighting": "dim torchlight",
+    "text": "\"Shi.t..\""
+  },
+  {
+    "setting": "A dimly lit tavern with a fire crackling in the hearth.",
+    "characters": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "warm candlelight",
+    "text": "\"His name is Gundren Rockseeker, who I assumed is.....\""
+  },
+  {
+    "setting": "A cluttered campaign setting with D&D rulebooks and papers scattered around a table.",
+    "characters": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "Two players sitting at a table, looking at each other.",
+    "mood": "casual",
+    "camera_view": "close-up",
+    "lighting": "",
+    "text": "SPEAKER_02: Just name that so you know from the start here that we are now playing Dungeons & Dragon.s..."
+  },
+  {
+    "setting": "Dungeon tavern filled with patrons and adventurers.",
+    "characters": [
+      "Aragorn",
+      "Steve Smith"
+    ],
+    "objects": [],
+    "action": "Aragorn leans in to hear Steve Smith speaking quietly.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "soft tavern glow",
+    "text": "\"SPEAKER_02: His name is Steve Smith...\""
+  },
+  {
+    "setting": "Dungeon library with shelves of ancient tomes.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "soft ambient light",
+    "text": "SPEAKER_02: His name....."
+  },
+  {
+    "setting": "A cluttered wizard's study with shelves of dusty tomes.",
+    "characters": [
+      "Eilif",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "frustrated",
+    "camera_view": "close-up",
+    "lighting": "soft glow from candles",
+    "text": "SPEAKER_02: These names are out of control..."
+  },
+  {
+    "setting": "A cramped, dimly lit library with dusty bookshelves.",
+    "characters": [
+      "SPEAKER_02",
+      "other adventurers"
+    ],
+    "objects": [
+      "booklet",
+      "books"
+    ],
+    "action": "SPEAKER_02 nervously fidgets with the booklet in their hand.",
+    "mood": "nervous",
+    "camera_view": "close-up",
+    "lighting": "dim",
+    "text": "\"I may eventually shed the booklet I'm going out of, which I'm really hoping you guys didn't read,\" SPEAKER_02 says."
+  },
+  {
+    "setting": "Dungeon market stall with a variety of beginner adventurer gear.",
+    "characters": [
+      "Gizmo",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "stalls",
+      "gear"
+    ],
+    "action": "Gizmo looks at SPEAKER_02's starter kit purchases.",
+    "mood": "amused",
+    "camera_view": "close-up",
+    "lighting": "natural",
+    "text": "SPEAKER_02: Because I bought all of you starter kits..."
+  },
+  {
+    "setting": "Campaign master's office, a hint of desperation in the air.",
+    "characters": [
+      "Campaign Master",
+      "Dungeon Adventurer"
+    ],
+    "objects": [
+      "rulebook",
+      "scribbled notes"
+    ],
+    "action": "\"Dungeon Adventurer\" accuses Campaign Master of unfairness.",
+    "mood": "frustrated",
+    "camera_view": "medium close-up",
+    "lighting": "overhead lighting, slightly dimmed",
+    "text": "SPEAKER_02: And you could have just cheated and read ahead in this adventure..."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons arguing in the background.",
+    "characters": [
+      "Gorthok",
+      "Torga"
+    ],
+    "objects": [
+      "mug",
+      "sword hilt"
+    ],
+    "action": "Gorthok gestures emphatically as Torga listens intently.",
+    "mood": "agitated",
+    "camera_view": "close-up",
+    "lighting": "candlelit",
+    "text": "SPEAKER_02: Maybe you've had a few drink.s..."
+  },
+  {
+    "setting": "Dungeon throne room with a large stone chair at the center.",
+    "characters": [
+      "Elara",
+      "Sparrow"
+    ],
+    "objects": [
+      "throne",
+      "scepter"
+    ],
+    "action": "Sparrow cautiously approaches Elara, who sits on the throne.",
+    "mood": "guarded",
+    "camera_view": "close-up",
+    "lighting": "dim candlelight",
+    "text": "SPEAKER_02: Maybe not..."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 hesitates, looking uncertain.",
+    "mood": "anxious",
+    "camera_view": "medium shot",
+    "lighting": "soft candlelight",
+    "text": "\"I don't want to make assumption.s...\""
+  },
+  {
+    "setting": "A dimly lit tavern, patrons in the background.",
+    "characters": [
+      "Taco",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "Taco leans in to speak with SPEAKER_02, who appears uninterested.",
+    "mood": "irritated",
+    "camera_view": "close-up on SPEAKER_02's face",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: Maybe you're all straight edge..."
+  },
+  {
+    "setting": "A dimly lit tavern, with patrons huddled in the corner.",
+    "characters": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans against a wooden table, eyeing SPEAKER_01.",
+    "mood": "suspicious",
+    "camera_view": "medium close-up",
+    "lighting": "warm tavern glow",
+    "text": "\"Maybe you don't like to.....\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "Magnus"
+    ],
+    "objects": [
+      "pint of ale",
+      "table"
+    ],
+    "action": "SPEAKER_02 leans in to whisper something to Magnus.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern glow",
+    "text": "\"Magnus has had about six ciders...\""
+  },
+  {
+    "setting": "A dimly lit, stone chamber with a single, flickering torch on the wall.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "torch"
+    ],
+    "action": "SPEAKER_02 hesitates, looking around cautiously.",
+    "mood": "nervous",
+    "camera_view": "medium shot",
+    "lighting": "soft torchlight",
+    "text": "SPEAKER_02: Six, um....."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "SPEAKER_01 stands at a table, speaking to another patron.",
+    "mood": "serious",
+    "camera_view": "close-up",
+    "lighting": "soft tavern lighting",
+    "text": "\"But he can.....\""
+  },
+  {
+    "setting": "A bustling tavern with patrons in the background.",
+    "characters": [
+      "Sylas",
+      "Toric"
+    ],
+    "objects": [],
+    "action": "Sylas leans in to whisper something to Toric.",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "warm tavern glow",
+    "text": "\"No,,, he can hold his own...\""
+  },
+  {
+    "setting": "A rustic tavern's wooden bar.",
+    "characters": [
+      "Barkeep"
+    ],
+    "objects": [
+      "jug",
+      "pump"
+    ],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "medium shot",
+    "lighting": "warm",
+    "text": "SPEAKER_01: Regular apple cider version.?."
+  },
+  {
+    "setting": "A bustling tavern with patrons enjoying ale and cider.",
+    "characters": [
+      "Speaker_02",
+      "Narrator"
+    ],
+    "objects": [
+      "cider jug",
+      "mug"
+    ],
+    "action": "Speaker_02 holds a mug, sampling the cider with a critical expression.",
+    "mood": "disapproving",
+    "camera_view": "medium close-up",
+    "lighting": "warm tavern glow",
+    "text": "\"I mean, it's pretty weak as ciders go...\""
+  },
+  {
+    "setting": "A dusty, dimly lit tavern.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "Dice bag",
+      "Rulebook"
+    ],
+    "action": "The speaker gestures to a map on the table.",
+    "mood": "concentrated",
+    "camera_view": "close-up",
+    "lighting": "tavern candles",
+    "text": "\"Like, 3.2...\""
+  },
+  {
+    "setting": "A dimly lit tavern with a large wooden table in the center.",
+    "characters": [
+      "Merle",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "ledger",
+      "quill"
+    ],
+    "action": "SPEAKER_02 leans over Merle, studying a parchment.",
+    "mood": "serious",
+    "camera_view": "close-up",
+    "lighting": "candlelight",
+    "text": "SPEAKER_02: We know that Merle possesses nearly 2,000 party points..."
+  },
+  {
+    "setting": "Creepy forest with twisted trees and overgrown underbrush.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "dappled sunlight",
+    "text": "SPEAKER_02: Uh.-.hu.h..."
+  },
+  {
+    "setting": "Dark chamber of a wizard's library, shelves overflowing with dusty tomes.",
+    "characters": [
+      "SPEAKER_02",
+      "NPC_01"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans in, whispering to NPC_01.",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "dim, magical glow",
+    "text": "SPEAKER_02: So he.'.s....."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "Unknown speaker"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 speaks to someone off-panel.",
+    "mood": "casual",
+    "camera_view": "medium shot of SPEAKER_02",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: I imagine he's been crushing it..."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons in the background.",
+    "characters": [
+      "Brogg",
+      "Gorthok"
+    ],
+    "objects": [],
+    "action": "Brogg points a finger at Gorthok.",
+    "mood": "accusatory",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern glow",
+    "text": "\"He's the Andrew WK of D.&.D...\""
+  },
+  {
+    "setting": "Abandoned forest, a dimly lit glade.",
+    "characters": [
+      "You",
+      "Speaker_02"
+    ],
+    "objects": [],
+    "action": "Speaker_02 nods in agreement while you prepare for the next step.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "natural light filtering through trees",
+    "text": "SPEAKER_02: You're right..."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "Oversighter"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 gestures to Oversighter, trying to catch his attention.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: Oversighter, he talks to you guys about an exciting opportunity..."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "bar",
+      "mug"
+    ],
+    "action": "SPEAKER_02 leans against the bar, sipping a mug of ale.",
+    "mood": "casual",
+    "camera_view": "close-up",
+    "lighting": "fireplace and candles",
+    "text": "\"He seems pretty straight.-.la.ced...\""
+  },
+  {
+    "setting": "Dusty tavern common room",
+    "characters": [
+      "Gorthok",
+      "Squint"
+    ],
+    "objects": [
+      "bar",
+      "mug"
+    ],
+    "action": "Gorthok leans in close to Squint, speaking in a hushed tone.",
+    "mood": "suspicious",
+    "camera_view": "medium shot",
+    "lighting": "warm firelight",
+    "text": "\"He seems like he's not giving you no bull.shit...\""
+  },
+  {
+    "setting": "A dimly lit tavern, patrons murmuring in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "awkward",
+    "camera_view": "medium shot",
+    "lighting": "warm torches",
+    "text": "SPEAKER_02: Um....."
+  },
+  {
+    "setting": "Dark dungeon corridor with cobweb-covered walls.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "dim torches",
+    "text": "And he promises...."
+  },
+  {
+    "setting": "A dimly lit, ancient dwarven tavern.",
+    "characters": [
+      "Speaker_02"
+    ],
+    "objects": [],
+    "action": "Speaker_02 speaks in a hushed tone to an unseen listener.",
+    "mood": "ominous",
+    "camera_view": "medium close-up",
+    "lighting": "low candlelight",
+    "text": "SPEAKER_02: In a low dwarven grumble....."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 speaks to an unseen party member.",
+    "mood": "uneasy",
+    "camera_view": "medium shot",
+    "lighting": "soft tavern lighting",
+    "text": "\"Uh,,, which I'm not going to do...\""
+  },
+  {
+    "setting": "Creepy, abandoned mansion hallway with cobwebs.",
+    "characters": [
+      "Taco",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "door"
+    ],
+    "action": "",
+    "mood": "nervous",
+    "camera_view": "medium shot",
+    "lighting": "dim",
+    "text": "SPEAKER_02: That....."
+  },
+  {
+    "setting": "Cavernous cave with a lone figure standing on the precipice.",
+    "characters": [
+      "Taco",
+      "Speaker_02"
+    ],
+    "objects": [
+      "cave wall",
+      "the speaker's sword"
+    ],
+    "action": "The speaker draws their sword, pointing it at Taco while taking a step closer.",
+    "mood": "menacing",
+    "camera_view": "close-up on the speaker's face",
+    "lighting": "dim cave lighting with shadows cast by the wall",
+    "text": "SPEAKER_02: Do it or I'll walk..."
+  },
+  {
+    "setting": "Tabletop D&D session with a group of players.",
+    "characters": [
+      "Griff"
+    ],
+    "objects": [],
+    "action": "A player rolls their dice while another plays Griff.",
+    "mood": "amused",
+    "camera_view": "close-up",
+    "lighting": "",
+    "text": "SPEAKER_02: Griff,in,, it's not fun if you don't do the voice..."
+  },
+  {
+    "setting": "Dark, musty tavern interior.",
+    "characters": [
+      "SPEAKER_02",
+      "Inquisitive-looking patron"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans in to whisper to the patron.",
+    "mood": "intrigued",
+    "camera_view": "medium shot",
+    "lighting": "soft tavern light",
+    "text": "SPEAKER_02: He says..."
+  },
+  {
+    "setting": "A crowded D&D campaign table with multiple players and a DM.",
+    "characters": [
+      "SPEAKER_02",
+      "Serius"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans in to whisper to Serius.",
+    "mood": "amused",
+    "camera_view": "close-up",
+    "lighting": "overhead lighting",
+    "text": "SPEAKER_02: Seri,ously,, I'm gonna do a voice..."
+  },
+  {
+    "setting": "Dark forest clearing with ancient trees looming overhead.",
+    "characters": [
+      "Griff.in",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "None"
+    ],
+    "action": "SPEAKER_02 tries to warn Griff.in about something.",
+    "mood": "concerned",
+    "camera_view": "medium shot",
+    "lighting": "dappled sunlight",
+    "text": "\"Don't do the voice, Griff.in...\""
+  },
+  {
+    "setting": "Cavernous underground chamber with ancient stone walls.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "map",
+      "quill"
+    ],
+    "action": "Speaker_02 hands over a parchment to another character.",
+    "mood": "serious",
+    "camera_view": "medium close-up",
+    "lighting": "dim candlelight",
+    "text": "SPEAKER_02: There you go..."
+  },
+  {
+    "setting": "A dimly lit chamber with a lone adventurer",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 pauses, unsure of what to do next",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "dim ambient light",
+    "text": "\"Uh, he.....\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "intrigued",
+    "camera_view": "medium shot",
+    "lighting": "candlelight",
+    "text": "\"He says that....\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "Speaker_02"
+    ],
+    "objects": [],
+    "action": "Speaker_02 gestures impatiently while thinking.",
+    "mood": "confused",
+    "camera_view": "close-up on Speaker_02's face",
+    "lighting": "warm tavern lighting",
+    "text": "\"I want to follow up on.!\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons murmuring in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 is frozen, staring at something unseen.",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "soft tavern lighting",
+    "text": "SPEAKER_02: No,,, that's just....."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 nods slowly",
+    "mood": "skeptical",
+    "camera_view": "close-up",
+    "lighting": "warm firelight",
+    "text": "\"That's how he sounds...\""
+  },
+  {
+    "setting": "A dimly lit, damp cave with ancient stone walls.",
+    "characters": [
+      "SPEAKER_02",
+      "unknown"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 looks puzzled.",
+    "mood": "confused",
+    "camera_view": "medium shot",
+    "lighting": "dim torches",
+    "text": "\"You are interpreting these low grunt.s...\""
+  },
+  {
+    "setting": "",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "dull",
+    "text": "\"Uh.....\""
+  },
+  {
+    "setting": "A worn, stone-walled tavern.",
+    "characters": [
+      "SPEAKER_02",
+      "Sling Blade"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 speaks with a look of concern on his face.",
+    "mood": "concerned",
+    "camera_view": "close-up",
+    "lighting": "dim tavern lighting",
+    "text": "SPEAKER_02: Basically, Sling Blade....."
+  },
+  {
+    "setting": "A dimly lit tavern",
+    "characters": [
+      "Rich"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "candlelight",
+    "text": "\"Rich Rod Ta.ters...\""
+  },
+  {
+    "setting": "A dimly lit tavern with a lone figure at the bar.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "candlelight",
+    "text": "SPEAKER_02: Uh....."
+  },
+  {
+    "setting": "Dusty cave with a lone adventurer standing near a large rock.",
+    "characters": [
+      "Rocky"
+    ],
+    "objects": [
+      "rock",
+      "backpack"
+    ],
+    "action": "Rocky is examining the rock.",
+    "mood": "curious",
+    "camera_view": "close-up shot",
+    "lighting": "natural cave lighting",
+    "text": "\"I'm glad we're gonna go looking for this rock.\""
+  },
+  {
+    "setting": "Dark forest clearing with twisted trees.",
+    "characters": [
+      "You",
+      "Taco"
+    ],
+    "objects": [
+      "sling",
+      "Sword"
+    ],
+    "action": "You attempt to decipher Taco's grunts while he wields his sword.",
+    "mood": "confused",
+    "camera_view": "medium shot",
+    "lighting": "natural light",
+    "text": "SPEAKER_02: You interpret from his Sling Blade-esque grunts that, um...."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons in the background.",
+    "characters": [
+      "Kael",
+      "The Patron"
+    ],
+    "objects": [
+      "pint of ale",
+      "table"
+    ],
+    "action": "Kael leans in, interested, as The Patron speaks.",
+    "mood": "suspicious",
+    "camera_view": "medium close-up",
+    "lighting": "soft tavern glow",
+    "text": "SPEAKER_02: He has to offer you what he calls the last job you'll ever need to take..."
+  },
+  {
+    "setting": "Dusty tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans forward, speaking quietly to another patron.",
+    "mood": "suspicious",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "\"Which you take at face value to mean riche.s...\""
+  },
+  {
+    "setting": "A dark and dusty tavern, with patrons huddled in the corners.",
+    "characters": [
+      "Gorthok",
+      "Sorsha"
+    ],
+    "objects": [],
+    "action": "Gorthok leans in, speaking quietly to Sorsha.",
+    "mood": "suspicious",
+    "camera_view": "medium shot",
+    "lighting": "firelit tavern atmosphere",
+    "text": "\"And not that you'll die...\""
+  },
+  {
+    "setting": "Dark forest path with ominous trees looming overhead.",
+    "characters": [
+      "Eilif",
+      "Gundrik"
+    ],
+    "objects": [],
+    "action": "Gundrik gestures for Eilif to follow him into the darkness.",
+    "mood": "ominous",
+    "camera_view": "close-up",
+    "lighting": "dusk",
+    "text": "SPEAKER_02: Not that you'll be murdered on this journey..."
+  },
+  {
+    "setting": "Dungeon chamber with stone walls and a low ceiling.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "A pause in conversation.",
+    "mood": "awkward",
+    "camera_view": "close-up",
+    "lighting": "dim candles",
+    "text": "SPEAKER_02: Um....."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "intrigued",
+    "camera_view": "medium shot",
+    "lighting": "warm glow from fire pit",
+    "text": "\"But first, he wants to know.....\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "Mer.le",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "\"SPEAKER_02\" leans in, speaking quietly to Mer.le.",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "warm tavern lighting",
+    "text": "\"SPEAKER_02\": Maybe he's doing it as a favor to you,, Mer.le..."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "Taco",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "awkward",
+    "camera_view": "close-up",
+    "lighting": "warm firelight",
+    "text": "\"Maybe he, uh, knows that you've had some hard times la.tely...\""
+  },
+  {
+    "setting": "",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 hesitates, unsure of what to say next.",
+    "mood": "nervous",
+    "camera_view": "medium shot",
+    "lighting": "dull room light",
+    "text": "\"And, uh.....\""
+  },
+  {
+    "setting": "A dimly lit tavern, patrons huddled in the corners.",
+    "characters": [
+      "SPEAKER_02",
+      "Eira"
+    ],
+    "objects": [],
+    "action": "Eira leans in to speak with SPEAKER_02.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "dungeon candles",
+    "text": "\"Yeah,,, the religion business is not good...\""
+  },
+  {
+    "setting": "Dark, damp cave with rocky walls.",
+    "characters": [
+      "Eilif",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 turns to Eilif with a stern expression.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "torchlight",
+    "text": "SPEAKER_02: No."
+  },
+  {
+    "setting": "Modern-day city street with a church in the background.",
+    "characters": [
+      "Jesus",
+      "Speaker_02"
+    ],
+    "objects": [],
+    "action": "Jesus is having a conversation with Speaker_02 on the sidewalk.",
+    "mood": "skeptical",
+    "camera_view": "close-up shot of Jesus",
+    "lighting": "natural daylight",
+    "text": "\"People are not crazy about Fantasy, Jesus...\""
+  },
+  {
+    "setting": "",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "A player hesitates, unsure of what to do.",
+    "mood": "nervous",
+    "camera_view": "close-up",
+    "lighting": "flickering torches",
+    "text": "SPEAKER_02: Um....."
+  },
+  {
+    "setting": "A dimly lit chamber with stone walls and a single window.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "dull",
+    "text": "\"I forget.....\""
+  },
+  {
+    "setting": "Dark forest, moonlit clearing with two adventurers.",
+    "characters": [
+      "Elara",
+      "Eryndor"
+    ],
+    "objects": [],
+    "action": "Elara gestures to Eryndor as they examine the ground.",
+    "mood": "inquisitive",
+    "camera_view": "medium shot",
+    "lighting": "moonlight",
+    "text": "SPEAKER_02: Who's your...?"
+  },
+  {
+    "setting": "Abandoned temple courtyard with overgrown ruins.",
+    "characters": [
+      "Eilif",
+      "Zorvath"
+    ],
+    "objects": [
+      "staff",
+      "scroll"
+    ],
+    "action": "Eilif readies his staff as Zorvath approaches him cautiously.",
+    "mood": "suspicious",
+    "camera_view": "close-up shot",
+    "lighting": "dappled sunlight",
+    "text": "SPEAKER_02: Who's your god???"
+  },
+  {
+    "setting": "Candlelit chamber with stone walls and ornate tapestries.",
+    "characters": [
+      "SPEAKER_02",
+      "Mardhammer Dwi.n"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "somber",
+    "camera_view": "medium shot",
+    "lighting": "candlelight",
+    "text": "SPEAKER_02: Oh,,, that would be Mardhammer Dwi.n..."
+  },
+  {
+    "setting": "A dimly lit tavern with a small fire crackling in the hearth.",
+    "characters": [
+      "SPEAKER_02",
+      "DM"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans forward, contemplating their next move.",
+    "mood": "thoughtful",
+    "camera_view": "close-up",
+    "lighting": "warm firelight",
+    "text": "\"I'm just gonna go with Dwi.n...\""
+  },
+  {
+    "setting": "An old, dusty library with shelves of ancient tomes.",
+    "characters": [
+      "Eilif",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "bookshelf",
+      "scroll"
+    ],
+    "action": "Eilif rummages through a book while SPEAKER_02 looks on.",
+    "mood": "curious",
+    "camera_view": "close-up",
+    "lighting": "soft library glow",
+    "text": "\"Which is Portuguese for Jesus...\""
+  },
+  {
+    "setting": "Dark dungeon corridor with flickering torches.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 hesitates in the corridor.",
+    "mood": "nervous",
+    "camera_view": "close-up",
+    "lighting": "torchlight",
+    "text": "\"Uh.....\""
+  },
+  {
+    "setting": "A grand, ornate throne room with a large stone throne at the far end.",
+    "characters": [
+      "Speaker_02",
+      "Taco"
+    ],
+    "objects": [
+      "throne",
+      "candlesticks"
+    ],
+    "action": "Speaker_02 stands before Taco, a sly grin spreading across their face.",
+    "mood": "menacing",
+    "camera_view": "medium shot",
+    "lighting": "warm, golden candlelight",
+    "text": "\"But before he will let you into this exciting opportunity...\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons huddled in the corner.",
+    "characters": [
+      "SPEAKER_02",
+      "a gruff-looking barkeep"
+    ],
+    "objects": [],
+    "action": "The speaker hesitates, unsure of what to say next.",
+    "mood": "awkward",
+    "camera_view": "close-up on SPEAKER_02",
+    "lighting": "warm tavern glow",
+    "text": "\"That,, uh.....\""
+  },
+  {
+    "setting": "Dungeon tavern with patrons in the background.",
+    "characters": [
+      "Speaker_02",
+      "Unknown"
+    ],
+    "objects": [],
+    "action": "Speaker_02 leans in to speak to Unknown.",
+    "mood": "mysterious",
+    "camera_view": "close-up shot",
+    "lighting": "warm tavern lighting",
+    "text": "\"You tried to press him on...\""
+  },
+  {
+    "setting": "A dimly lit, stone-walled chamber with a lone figure seated on a throne.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "inquisitive",
+    "camera_view": "close-up",
+    "lighting": "distant torches",
+    "text": "SPEAKER_02: And he refused to tell you any more about...."
+  },
+  {
+    "setting": "Dungeon corridor with cold stone walls and a faint smell of mold.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "medium close-up",
+    "lighting": "dim dungeon lighting",
+    "text": "\"Um.....\""
+  },
+  {
+    "setting": "Mysterious underground ruins with ancient stones and mysterious artifacts.",
+    "characters": [
+      "Eilif",
+      "Speaker_02"
+    ],
+    "objects": [
+      "scroll",
+      "sword hilt"
+    ],
+    "action": "Eilif approaches Speaker_02, who is holding a scroll, with an air of curiosity.",
+    "mood": "inquisitive",
+    "camera_view": "close-up",
+    "lighting": "dim torchlight",
+    "text": "\"To see if you are capable of handling...\""
+  },
+  {
+    "setting": "A bustling tavern in a fantasy village.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 is speaking to an unseen person.",
+    "mood": "confused",
+    "camera_view": "close-up on SPEAKER_02",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: So is this like a?...."
+  },
+  {
+    "setting": "Mysterious library with ancient tomes and scrolls.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 thinks deeply, surrounded by dusty books.",
+    "mood": "contemplative",
+    "camera_view": "medium close-up",
+    "lighting": "dim",
+    "text": "\"Two contrasting monologues, or...\""
+  },
+  {
+    "setting": "A dimly lit tavern with a lone speaker at the bar.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "bar stool",
+      "pint of ale"
+    ],
+    "action": "Speaker pauses, hesitant to continue speaking.",
+    "mood": "awkward",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "\"Uh.....\""
+  },
+  {
+    "setting": "A crowded tavern with patrons laughing and chatting.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "a mug of ale",
+      "an empty chair"
+    ],
+    "action": "SPEAKER_02 hesitates, unsure what to say next.",
+    "mood": "awkward",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern glow",
+    "text": "\"Yeah,,, he wants,,, uh.....\""
+  },
+  {
+    "setting": "Comic book design studio with a large monitor displaying an unfinished panel.",
+    "characters": [
+      "Speaker_02",
+      "Artist"
+    ],
+    "objects": [
+      "design tablet",
+      "monitor"
+    ],
+    "action": "Speaker_02 is gesturing animatedly while Artist looks at the monitor.",
+    "mood": "excited",
+    "camera_view": "close-up of Speaker_02's face",
+    "lighting": "natural light from a nearby window",
+    "text": "\"He wants one that shows excitement...\""
+  },
+  {
+    "setting": "Mysterious library with ancient tomes on shelves.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "scroll",
+      "quill"
+    ],
+    "action": "SPEAKER_02 gestures emphatically while speaking.",
+    "mood": "confident",
+    "camera_view": "close-up",
+    "lighting": "soft luminescence",
+    "text": "\"One that shows impotent .rage...\""
+  },
+  {
+    "setting": "A dimly lit tavern with a single patron.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "The lone figure looks nervous and hesitant.",
+    "mood": "nervous",
+    "camera_view": "close-up",
+    "lighting": "distant candles",
+    "text": "\"Um.....\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 hesitantly speaks to someone off-panel.",
+    "mood": "nervous",
+    "camera_view": "medium shot",
+    "lighting": "candlelight",
+    "text": "SPEAKER_02: No,,, he wants a....."
+  },
+  {
+    "setting": "A lively tavern with patrons singing and laughing.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 is singing a song on stage.",
+    "mood": "jubilant",
+    "camera_view": "close-up of SPEAKER_02's face",
+    "lighting": "warm tavern lighting",
+    "text": "\"And a two-minute song...\""
+  },
+  {
+    "setting": "Dimly lit tavern",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 hesitates in thought",
+    "mood": "confused",
+    "camera_view": "close-up on SPEAKER_02's face",
+    "lighting": "warm tavern lighting",
+    "text": "\"He was thinking more along the lines of, uh,....\""
+  },
+  {
+    "setting": "Dark castle wall with a lone figure.",
+    "characters": [
+      "Sla"
+    ],
+    "objects": [],
+    "action": "Sla stands in contemplation, eyes closed.",
+    "mood": "pensive",
+    "camera_view": "close-up",
+    "lighting": "dim",
+    "text": "SPEAKER_02: Sla.ying..."
+  },
+  {
+    "setting": "Abandoned castle walls with overgrown vegetation.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 stands guard, eyeing the surroundings cautiously.",
+    "mood": "vigilant",
+    "camera_view": "medium shot",
+    "lighting": "natural daylight",
+    "text": "SPEAKER_02: .Protect.ing..."
+  },
+  {
+    "setting": "A mystical forest with ancient trees and whispering leaves.",
+    "characters": [
+      "Gui.dan.ce"
+    ],
+    "objects": [],
+    "action": "Gui.dan.ce stands in silence, surrounded by the forest's eerie calm.",
+    "mood": "ominous",
+    "camera_view": "close-up",
+    "lighting": "natural",
+    "text": "SPEAKER_02: Gui.dan.ce..."
+  },
+  {
+    "setting": "A crowded tavern filled with patrons and adventurers.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans in to whisper something to another adventurer.",
+    "mood": "intrigued",
+    "camera_view": "medium shot",
+    "lighting": "soft tavern lighting",
+    "text": "\"Adventuring, essential.ly..\""
+  },
+  {
+    "setting": "A dimly lit, abandoned temple interior.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "neutral",
+    "camera_view": "medium close-up",
+    "lighting": "soft ambient light",
+    "text": "SPEAKER_02: Excellent..."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 pauses, looking uncertain.",
+    "mood": "nervous",
+    "camera_view": "close-up",
+    "lighting": "soft tavern light",
+    "text": "\"Um.....\""
+  },
+  {
+    "setting": "Dungeon entrance with guards standing at attention.",
+    "characters": [
+      "Guard",
+      "Speaker_02"
+    ],
+    "objects": [],
+    "action": "The guard steps forward, hands clasped behind his back.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "soft daylight",
+    "text": "SPEAKER_02: So he has asked the three of you to escort..."
+  },
+  {
+    "setting": "A dusty trading outpost on the outskirts of a mystical forest.",
+    "characters": [
+      "Speaker_02"
+    ],
+    "objects": [
+      "supply wagon",
+      ""
+    ],
+    "action": "Speaker_02 gestures to the supply wagon, excitement in their voice.",
+    "mood": "excited",
+    "camera_view": "medium shot",
+    "lighting": "soft natural light",
+    "text": "\"A supply wagon...\""
+  },
+  {
+    "setting": "Ancient library with dusty shelves and leather-bound books.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "soft candlelight",
+    "text": "From the....."
+  },
+  {
+    "setting": "a dimly lit tavern exterior with a sign creaking in the wind.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "tavern sign",
+      "town gate"
+    ],
+    "action": "The speaker stands outside the tavern, looking at a map.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "dusk",
+    "text": "SPEAKER_02: The town of Never.w.inter....."
+  },
+  {
+    "setting": "A dimly lit, damp cave with rough stone walls.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 turns to the prisoners, asking a question.",
+    "mood": "inquisitive",
+    "camera_view": "close-up",
+    "lighting": "flickering torches",
+    "text": "\"Where the three of you are currently held up.....\""
+  },
+  {
+    "setting": "Ancient forest with tall trees and a faint mist.",
+    "characters": [
+      "Kael",
+      "Eira"
+    ],
+    "objects": [],
+    "action": "Eira is pointing at something in the distance, her eyes wide with concern.",
+    "mood": "concerned",
+    "camera_view": "medium shot",
+    "lighting": "soft daylight",
+    "text": "SPEAKER_02: To the town of Phan.dal.in..."
+  },
+  {
+    "setting": "A dark and mysterious forest, with trees looming in the background.",
+    "characters": [
+      "Speaker_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "soft natural light",
+    "text": "\"Which.....\""
+  },
+  {
+    "setting": "A large, dusty map spread out on a wooden table.",
+    "characters": [
+      "SPEAKER_02",
+      "SPEAKER_01"
+    ],
+    "objects": [
+      "map",
+      "quill"
+    ],
+    "action": "SPEAKER_02 gestures passionately as SPEAKER_01 listens intently.",
+    "mood": "inquisitive",
+    "camera_view": "close-up",
+    "lighting": "soft candlelight",
+    "text": "SPEAKER_02: None of you have actually been to....."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 stands at the bar, looking uncertain.",
+    "mood": "awkward",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: Uh....."
+  },
+  {
+    "setting": "Dark castle library with leather-bound tomes.",
+    "characters": [
+      "SPEAKER_02",
+      "Speaker_01"
+    ],
+    "objects": [
+      "bookshelf"
+    ],
+    "action": "",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "candlelight",
+    "text": "\"But maybe you.....\""
+  },
+  {
+    "setting": "Abandoned tavern interior",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "empty chair",
+      "half-filled mug"
+    ],
+    "action": "SPEAKER_02 hesitates, unsure of what to do next.",
+    "mood": "awkward",
+    "camera_view": "close-up",
+    "lighting": "dim tavern lighting",
+    "text": "SPEAKER_02: Uh....."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons chatting in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans against a wooden bar, eyeing the party.",
+    "mood": "suspicious",
+    "camera_view": "close-up",
+    "lighting": "candlelight",
+    "text": "SPEAKER_02: Know a thing or two about it..."
+  },
+  {
+    "setting": "A dimly lit chamber deep within a long-abandoned castle.",
+    "characters": [
+      "Eilif",
+      "Lila"
+    ],
+    "objects": [],
+    "action": "Eilif leans forward, eyeing Lila expectantly as she ponders the question.",
+    "mood": "curious",
+    "camera_view": "medium close-up",
+    "lighting": "candlelight",
+    "text": "\"If you want, you can make a history check.....\" - Eilif"
+  },
+  {
+    "setting": "A dimly lit tavern",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "a mug",
+      "a table"
+    ],
+    "action": "SPEAKER_02 leans in, speaking quietly to an unseen companion.",
+    "mood": "suspicious",
+    "camera_view": "close-up",
+    "lighting": "candlelight",
+    "text": "To see if you know anything about it..."
+  },
+  {
+    "setting": "",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 begins to explain the situation.",
+    "mood": "formal",
+    "camera_view": "close-up",
+    "lighting": "ambient",
+    "text": "SPEAKER_02: And since this is your first check,..."
+  },
+  {
+    "setting": "Dusty tavern with a fire crackling in the hearth.",
+    "characters": [
+      "Elara",
+      "Eryndor"
+    ],
+    "objects": [
+      "mug",
+      "map"
+    ],
+    "action": "Elara pours Eryndor a mug of ale as he studies the map.",
+    "mood": "casual",
+    "camera_view": "close-up",
+    "lighting": "firelight",
+    "text": "\"I guess I'll explain how that works...\" - SPEAKER_02"
+  },
+  {
+    "setting": "A dimly lit tavern, a hooded figure sitting at a table in the corner.",
+    "characters": [
+      "SPEAKER_02",
+      "DM"
+    ],
+    "objects": [],
+    "action": "The hooded figure looks up, seemingly startled by the DM's words.",
+    "mood": "anxious",
+    "camera_view": "medium shot",
+    "lighting": "dull tavern lighting",
+    "text": "\"Um.....\""
+  },
+  {
+    "setting": "A dimly lit, cramped study with scattered papers and books.",
+    "characters": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans in to examine something on the table.",
+    "mood": "suspicious",
+    "camera_view": "close-up",
+    "lighting": "soft, ambient",
+    "text": "\"If you look on your sheet, you'll see...\""
+  },
+  {
+    "setting": "A dimly lit tavern, with a lone figure sitting at the bar.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "medium shot",
+    "lighting": "soft tavern lighting",
+    "text": "\"Uh.....\""
+  },
+  {
+    "setting": "A dimly lit, stone-walled room with ancient tapestries.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 examines a dusty scroll on the wall.",
+    "mood": "curious",
+    "camera_view": "close-up shot of SPEAKER_02's face",
+    "lighting": "soft, ambient light from the torches",
+    "text": "SPEAKER_02: History stat there..."
+  },
+  {
+    "setting": "Ancient library with dusty shelves and leather-bound tomes.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "scale"
+    ],
+    "action": "A lone figure examines the scale, eyes narrowing in concentration.",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "soft ambient light",
+    "text": "\"In the scale.s...\""
+  },
+  {
+    "setting": "A dimly lit tavern with a lone figure in the corner.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "a mug of ale",
+      "an empty chair"
+    ],
+    "action": "The figure sips its drink, eyes fixed on the floor.",
+    "mood": "awkward",
+    "camera_view": "close-up",
+    "lighting": "candlelight",
+    "text": "\"Um.....\""
+  },
+  {
+    "setting": "Dimly lit tavern",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 rolls a dice on the table",
+    "mood": "casual",
+    "camera_view": "close-up",
+    "lighting": "warm glow of candles",
+    "text": "SPEAKER_02: So you roll yourself a d.20..."
+  },
+  {
+    "setting": "Dungeon tavern, patrons and guards in the background.",
+    "characters": [
+      "Gorthok",
+      "Speaker_02"
+    ],
+    "objects": [
+      "dice table",
+      "gambler"
+    ],
+    "action": "Gorthok rolls a large dice while Speaker_02 looks on skeptically.",
+    "mood": "excited",
+    "camera_view": "medium close-up",
+    "lighting": " warm tavern glow",
+    "text": "SPEAKER_02: Mine is plus zero..."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons murmuring in the background.",
+    "characters": [
+      "Taco",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "mug",
+      "dice"
+    ],
+    "action": "Taco looks at SPEAKER_02 with a mixture of amusement and concern.",
+    "mood": "amused",
+    "camera_view": "close-up",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: Because I'm not very intelligent..."
+  },
+  {
+    "setting": "Dark cave with two adventurers standing at a crossroads.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "medium shot",
+    "lighting": "dull ambient",
+    "text": "Uh....."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons in the background.",
+    "characters": [
+      "Taco",
+      "Speaker_02"
+    ],
+    "objects": [],
+    "action": "Speaker_02 leans in to explain a rule.",
+    "mood": "confused",
+    "camera_view": "medium shot",
+    "lighting": "soft tavern lighting",
+    "text": "\"It's actually a wisdom-based roll...\""
+  },
+  {
+    "setting": "Dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "nervous",
+    "camera_view": "close-up",
+    "lighting": "distant torches",
+    "text": "SPEAKER_02: So, uh....."
+  },
+  {
+    "setting": "Abandoned tavern with broken furniture and dusty bottles.",
+    "characters": [
+      "SPEAKER_02",
+      "SPEAKER_01"
+    ],
+    "objects": [
+      "bottle",
+      "chair"
+    ],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "medium shot",
+    "lighting": "dim tavern light",
+    "text": "SPEAKER_02: What you....."
+  },
+  {
+    "setting": "Ancient library with dusty shelves and leather-bound tomes.",
+    "characters": [
+      "Elara",
+      "Eryndor"
+    ],
+    "objects": [
+      "book",
+      "quill"
+    ],
+    "action": "Elara browses through the shelves, searching for a specific tome while Eryndor looks on.",
+    "mood": "inquisitive",
+    "camera_view": "medium shot",
+    "lighting": "soft candlelight",
+    "text": "SPEAKER_02: History.?."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons huddled in the corner.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "awkward",
+    "camera_view": "medium shot",
+    "lighting": "soft tavern lighting",
+    "text": "\"Well,,, basically all those.....\""
+  },
+  {
+    "setting": "A dimly lit tavern, with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 is standing alone at a table, looking down.",
+    "mood": "regretful",
+    "camera_view": "close-up",
+    "lighting": "soft tavern glow",
+    "text": "\"No,,, I'm sorry...\""
+  },
+  {
+    "setting": "Dimly lit, damp cave with ancient stone walls.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans forward, whispering to another character.",
+    "mood": "intrigued",
+    "camera_view": "close-up on SPEAKER_02's face",
+    "lighting": "soft, diffused glow",
+    "text": "SPEAKER_02: That is intel.lec.t..."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 nods thoughtfully while the bard strums a soothing melody.",
+    "mood": " contemplative",
+    "camera_view": "medium close-up",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: You're right..."
+  },
+  {
+    "setting": "Dungeon master's table, with papers and dice scattered about.",
+    "characters": [
+      "DM",
+      "Player"
+    ],
+    "objects": [
+      "Dice, Rulebook"
+    ],
+    "action": "The DM asks the player to roll for initiative.",
+    "mood": "anticipatory",
+    "camera_view": "medium shot",
+    "lighting": "",
+    "text": "SPEAKER_01: Can I roll???"
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "casual",
+    "camera_view": "medium shot",
+    "lighting": "soft tavern light",
+    "text": "\"Everybody can roll...\""
+  },
+  {
+    "setting": "Dimly lit cave entrance.",
+    "characters": [
+      "Spar"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "soft ambient",
+    "text": "SPEAKER_01: Sur.e..."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "thoughtful",
+    "camera_view": "close-up",
+    "lighting": "warm glow",
+    "text": "I got a....."
+  },
+  {
+    "setting": "Dark cavern with faint luminescent mushrooms on walls.",
+    "characters": [
+      "T.wel."
+    ],
+    "objects": [],
+    "action": "The speaker looks around cautiously, eyes darting back and forth.",
+    "mood": "nervous",
+    "camera_view": "close-up",
+    "lighting": "dim, natural light",
+    "text": "SPEAKER_01: T.wel.ve..."
+  },
+  {
+    "setting": "A dusty tavern with a roaring fire.",
+    "characters": [
+      "SPEAKER_02",
+      "DM"
+    ],
+    "objects": [
+      "dice bag",
+      "map"
+    ],
+    "action": "SPEAKER_02 rolls the dice to resolve the situation.",
+    "mood": "excited",
+    "camera_view": "close-up shot of SPEAKER_02's hands",
+    "lighting": "warm firelight",
+    "text": "\"I got an eight.een...\""
+  },
+  {
+    "setting": "Dark cave with a lone adventurer",
+    "characters": [
+      "Eigh"
+    ],
+    "objects": [],
+    "action": "Adventurer catches breath",
+    "mood": "tired",
+    "camera_view": "close-up",
+    "lighting": "dim cave lighting",
+    "text": "\"E.igh...teen...\""
+  },
+  {
+    "setting": "Ancient forest, with tall trees and overgrown underbrush.",
+    "characters": [
+      "Eilif",
+      "Elara"
+    ],
+    "objects": [],
+    "action": "Eilif gestures to a nearby symbol etched into the tree bark while Elara examines it closely.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "dappled sunlight filtering through the trees",
+    "text": "SPEAKER_02: Raw.?"
+  },
+  {
+    "setting": "",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "casual",
+    "camera_view": "medium shot",
+    "lighting": "natural light",
+    "text": "\"Yeah,..\""
+  },
+  {
+    "setting": "A dimly lit, cramped tavern with patrons in the background.",
+    "characters": [
+      "Taco",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 points to their father, Taco, across the table.",
+    "mood": "inquisitive",
+    "camera_view": "close-up on SPEAKER_02",
+    "lighting": "warm tavern lighting",
+    "text": "\"Dad, you wan.na.....\""
+  },
+  {
+    "setting": "Dark chamber with a large stone table in the center.",
+    "characters": [
+      "Merle",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "Merle and SPEAKER_02 stand facing each other, hands on hips.",
+    "mood": "confident",
+    "camera_view": "close-up",
+    "lighting": "dimly lit chamber",
+    "text": "SPEAKER_02: Merle, you wanna give it a shot???"
+  },
+  {
+    "setting": "Dark, damp cave with rough stone walls.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 hesitates at the entrance of the cave.",
+    "mood": "nervous",
+    "camera_view": "close-up",
+    "lighting": "flickering torches in the distance",
+    "text": "\"I got a.....\""
+  },
+  {
+    "setting": "Dark, damp cave system with a faint glow in the distance.",
+    "characters": [
+      "Taco"
+    ],
+    "objects": [],
+    "action": "Taco stands still, eyes fixed on something ahead.",
+    "mood": "uneasy",
+    "camera_view": "medium shot",
+    "lighting": "dim",
+    "text": "\"Ni.ne..\""
+  },
+  {
+    "setting": "Dark cave with faint glow of luminescent mushrooms.",
+    "characters": [
+      "Dungeon Master",
+      "Player"
+    ],
+    "objects": [],
+    "action": "DM holds a 20-sided die, looking at Player with raised eyebrow.",
+    "mood": "confused",
+    "camera_view": "medium close-up",
+    "lighting": "soft natural light",
+    "text": "SPEAKER_02: You rolled a ni.ne.?"
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "intrigued",
+    "camera_view": "medium shot",
+    "lighting": "soft tavern lighting",
+    "text": "SPEAKER_02: Or with your...."
+  },
+  {
+    "setting": "A dimly lit, stone-walled chamber with a lone figure in the shadows.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "contemplative",
+    "camera_view": "medium close-up",
+    "lighting": "dim ambient light",
+    "text": "SPEAKER_02: My modifier zero..."
+  },
+  {
+    "setting": "A dimly lit fantasy world with rolling hills and a castle in the distance.",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "SPEAKER_01 is speaking to an unseen audience.",
+    "mood": "excited",
+    "camera_view": "close-up on SPEAKER_01's face",
+    "lighting": "natural light with a hint of magic glow",
+    "text": "\"This is our first roll in our fantasy...\""
+  },
+  {
+    "setting": "...",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "philosophical",
+    "camera_view": "medium shot",
+    "lighting": "natural",
+    "text": "SPEAKER_01: This magical fantasy world..."
+  },
+  {
+    "setting": "A dimly lit, cramped tavern with a large wooden table.",
+    "characters": [
+      "SPEAKER_01",
+      "NPC_02"
+    ],
+    "objects": [
+      "map",
+      "quill"
+    ],
+    "action": "SPEAKER_01 leans in, studying the map intently as NPC_02 listens.",
+    "mood": "serious",
+    "camera_view": "close-up",
+    "lighting": "warm tavern lighting",
+    "text": "\"And we're basically using it to fucking map quest something...\""
+  },
+  {
+    "setting": "Dreary, run-down tavern with a sign creaking in the wind.",
+    "characters": [
+      "Eilif"
+    ],
+    "objects": [
+      "yelp app",
+      "table"
+    ],
+    "action": "Eilif stands at a wooden table, staring down at their phone.",
+    "mood": "irritated",
+    "camera_view": "close-up",
+    "lighting": "dim tavern lighting",
+    "text": "SPEAKER_01: Basically using it to yelp this shitty town..."
+  },
+  {
+    "setting": "Abandoned forest glade with overgrown trees.",
+    "characters": [
+      "Falladwin",
+      "Dorrik"
+    ],
+    "objects": [
+      "rusted sword",
+      "old book"
+    ],
+    "action": "Falladwin looks puzzled while Dorrik examines the old book.",
+    "mood": "confused",
+    "camera_view": "medium close-up",
+    "lighting": "natural daylight",
+    "text": "SPEAKER_02: What about Fall?ad?win???"
+  },
+  {
+    "setting": "A dusty library with shelves of ancient tomes.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 begins to speak in a hushed tone.",
+    "mood": "mysterious",
+    "camera_view": "close-up",
+    "lighting": "dim",
+    "text": "SPEAKER_02: It's Phan.dal.in..."
+  },
+  {
+    "setting": "Cavernous cave system with scattered rocks and debris.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 stands still, looking around the area.",
+    "mood": "suspicious",
+    "camera_view": "close-up",
+    "lighting": "dim natural light",
+    "text": "SPEAKER_02: What.ever..."
+  },
+  {
+    "setting": "A cramped, dimly lit room with a single window.",
+    "characters": [
+      "SPEAKER_02",
+      "other adventurers"
+    ],
+    "objects": [
+      "notebook paper",
+      "quills and inkwell"
+    ],
+    "action": "SPEAKER_02 gestures for the others to gather around.",
+    "mood": "cautious",
+    "camera_view": "medium shot",
+    "lighting": "flickering candlelight",
+    "text": "\"You guys might wanna get some notebook paper around...\""
+  },
+  {
+    "setting": "A dimly lit chamber with stone walls and a large wooden desk.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "intrigued",
+    "camera_view": "medium close-up",
+    "lighting": "soft luminescence from candles",
+    "text": "\"I wrote it down...\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "an unknown party member"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 is speaking to an unknown party member.",
+    "mood": "awkward",
+    "camera_view": "medium close-up on SPEAKER_02",
+    "lighting": "warm tavern lighting with shadows",
+    "text": "\"Oh,,, you did...\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 speaks to a group of adventurers.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "candlelight",
+    "text": "SPEAKER_02: Fantastic..."
+  },
+  {
+    "setting": "A small, cluttered kitchen in a medieval tavern.",
+    "characters": [
+      "SPEAKER_02",
+      "Dad"
+    ],
+    "objects": [],
+    "action": "Speaker 02 gestures while talking to Dad.",
+    "mood": "inquisitive",
+    "camera_view": "medium shot",
+    "lighting": "soft, warm glow of a lantern",
+    "text": "\"So did Dad...\""
+  },
+  {
+    "setting": "Dark and damp cave system.",
+    "characters": [
+      "Tra,vis",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 is shouting at Tra,vis in anger.",
+    "mood": "angry",
+    "camera_view": "medium shot",
+    "lighting": "dim cave lighting",
+    "text": "SPEAKER_02: So,, Tra,vis,, you know,,, given that you're pretty goddamn dumb...."
+  },
+  {
+    "setting": "A dimly lit tavern, with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "grateful",
+    "camera_view": "medium shot",
+    "lighting": "soft tavern light",
+    "text": "\"Thank you...\""
+  },
+  {
+    "setting": "A dimly lit, musty tavern.",
+    "characters": [
+      "SPEAKER_02",
+      "Taco"
+    ],
+    "objects": [
+      "pint of ale",
+      "a hooded figure"
+    ],
+    "action": "SPEAKER_02 leans in to whisper something to Taco.",
+    "mood": "ominous",
+    "camera_view": "medium close-up",
+    "lighting": "dull tavern lighting",
+    "text": "\"You still know...\""
+  },
+  {
+    "setting": "A dimly lit tavern, the patrons huddled in conversation.",
+    "characters": [
+      "SPEAKER_02",
+      "Other"
+    ],
+    "objects": [
+      "pint of ale",
+      "torn parchment"
+    ],
+    "action": "SPEAKER_02 leans in close to another patron, speaking in a hushed tone.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "candlelight",
+    "text": "SPEAKER_02: Which the other two should be. A shame that they couldn't pull this out..."
+  },
+  {
+    "setting": "Abandoned mining town, old buildings and mine shafts.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "neutral",
+    "camera_view": "medium shot",
+    "lighting": "daylight",
+    "text": "\"That Phandalin is an old mining town...\""
+  },
+  {
+    "setting": "Abandoned village in a lush forest.",
+    "characters": [
+      "Eilif",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "ruins",
+      "sword"
+    ],
+    "action": "Eilif and SPEAKER_02 examine the remnants of an ancient building.",
+    "mood": "melancholic",
+    "camera_view": "medium shot",
+    "lighting": "natural light",
+    "text": "SPEAKER_02: That used to be very, very prosper.ous..."
+  },
+  {
+    "setting": "Abandoned mine shaft with a large excavation pit.",
+    "characters": [
+      "Arin",
+      "Eilif"
+    ],
+    "objects": [
+      "pickaxe",
+      "map"
+    ],
+    "action": "Arin examines the map while Eilif inspects the surrounding area.",
+    "mood": "cautious",
+    "camera_view": "close-up",
+    "lighting": "cave ambient",
+    "text": "SPEAKER_02: They had a very productive motherlode operation going on there..."
+  },
+  {
+    "setting": "Razed town with scattered buildings and debris.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 gestures towards the destruction.",
+    "mood": "angry",
+    "camera_view": "medium close-up",
+    "lighting": "daylight",
+    "text": "\"But the town was ransacked by.....\""
+  },
+  {
+    "setting": "Dusty, abandoned mine shaft.",
+    "characters": [
+      "Eilif",
+      "Kael"
+    ],
+    "objects": [
+      "pickaxe",
+      "mining cart"
+    ],
+    "action": "Eilif gestures to the exposed ore while Kael looks concerned.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "natural, dimly lit mine shaft",
+    "text": "SPEAKER_02: Do we know what they were mi?ning???"
+  },
+  {
+    "setting": "A dimly lit mine shaft with exposed rock walls.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "pickaxe",
+      "mining helmet"
+    ],
+    "action": "SPEAKER_02 gestures to a nearby mining operation.",
+    "mood": "intrigued",
+    "camera_view": "medium close-up",
+    "lighting": "flickering lanterns",
+    "text": "\"Actually, they were mining magical ores...\""
+  },
+  {
+    "setting": "Ancient, weathered cave walls with a glowing crystal nestled within.",
+    "characters": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "map",
+      "compass"
+    ],
+    "action": "",
+    "mood": "excited",
+    "camera_view": "close-up on SPEAKER_02's face",
+    "lighting": "soft, mystical glow emanating from the crystal",
+    "text": "SPEAKER_02: They found a deep magical vein within the earth..."
+  },
+  {
+    "setting": "A bustling market filled with stalls selling magical items and ores.",
+    "characters": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "shelves of magical items",
+      "mining equipment"
+    ],
+    "action": "SPEAKER_02 is speaking to SPEAKER_01, gesturing with their hands.",
+    "mood": "excited",
+    "camera_view": "medium shot",
+    "lighting": "natural daylight",
+    "text": "SPEAKER_02: And sort of the creation of magical items and the mining of ores that could be used inside those items...."
+  },
+  {
+    "setting": "A bustling market town filled with people and buildings.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "proud",
+    "camera_view": "medium shot",
+    "lighting": "natural daylight",
+    "text": "\"Sort of turned it into a extremely profitable town very, very quickly...\""
+  },
+  {
+    "setting": "Ruined village with scattered debris and rubble.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "destroyed buildings"
+    ],
+    "action": "SPEAKER_02 gestures to the devastation.",
+    "mood": "grim",
+    "camera_view": "close-up shot",
+    "lighting": "daylight with shadows",
+    "text": "\"But it was basically destroyed by a wave of orcs that swept over the land...\""
+  },
+  {
+    "setting": "A dimly lit tavern, patrons murmur in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans against a wooden bar, arms crossed.",
+    "mood": "cautious",
+    "camera_view": "close-up shot",
+    "lighting": "warm tavern light",
+    "text": "\"It's on the up and up now...\""
+  },
+  {
+    "setting": "Abandoned ruin with crumbling walls and overgrown vegetation.",
+    "characters": [
+      "Kael",
+      "Eira"
+    ],
+    "objects": [
+      "book",
+      "quill"
+    ],
+    "action": "Kael ponders the ancient text as Eira stands guard nearby.",
+    "mood": "intrigued",
+    "camera_view": "medium shot",
+    "lighting": "soft, natural light",
+    "text": "\"It's sort of being re.bu.ilt...\""
+  },
+  {
+    "setting": "A dimly lit, abandoned mine shaft.",
+    "characters": [
+      "Taco",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "Taco looks around nervously as SPEAKER_02 speaks.",
+    "mood": "anxious",
+    "camera_view": "close-up",
+    "lighting": "flickering lanterns",
+    "text": "SPEAKER_02: So the vein is still there,, right???"
+  },
+  {
+    "setting": "A vast, underground cavern filled with glittering magical ores.",
+    "characters": [
+      "Arin",
+      "Eilif"
+    ],
+    "objects": [
+      "map",
+      "pickaxe"
+    ],
+    "action": "Eilif examines the ancient map while Arin begins to dig into the nearby ore vein.",
+    "mood": "hopeful",
+    "camera_view": "close-up shot",
+    "lighting": "flickering lanterns",
+    "text": "\"The vein of magic ores still there.?\" - Eilif"
+  },
+  {
+    "setting": "Old, ruined library with dusty shelves and a large stone door in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "Grimbold"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 stands before the large stone door, looking at it with concern.",
+    "mood": "serious",
+    "camera_view": "close-up on SPEAKER_02's face",
+    "lighting": "dim, with a faint glow from luminescent runes on the wall",
+    "text": "\"It's long since been lost...\""
+  },
+  {
+    "setting": "Ancient ruined city in the distance, misty forest.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "contemplative",
+    "camera_view": "medium shot",
+    "lighting": "distant sunlight",
+    "text": "SPEAKER_02: This was long ago..."
+  },
+  {
+    "setting": "Dusty tavern interior with patrons playing dice in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "another patron"
+    ],
+    "objects": [
+      "dice table",
+      "mug of ale"
+    ],
+    "action": "SPEAKER_02 leans against the bar, speaking to another patron in hushed tones.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "dim tavern lighting",
+    "text": "\"They don't have that economy anymore...\""
+  },
+  {
+    "setting": "A bustling town square with people rebuilding and repairing structures.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "hammer",
+      "chisel"
+    ],
+    "action": "",
+    "mood": "hopeful",
+    "camera_view": "medium shot",
+    "lighting": "natural light",
+    "text": "But the town is being rebuilt by enterprising individuals..."
+  },
+  {
+    "setting": "Abandoned mine shaft, old pickaxes scattered about.",
+    "characters": [
+      "Eilif",
+      "Gundrik"
+    ],
+    "objects": [
+      "pickaxe",
+      "map"
+    ],
+    "action": "Eilif examines the map while Gundrik searches for more clues.",
+    "mood": "intrigued",
+    "camera_view": "medium shot",
+    "lighting": "dim lantern light",
+    "text": "SPEAKER_02: It's more ru.gged..."
+  },
+  {
+    "setting": "Dusty, rundown frontier town with broken sign that reads 'Welcome to...'",
+    "characters": [
+      "Gundrik",
+      "Speaker_02"
+    ],
+    "objects": [
+      "bar stool",
+      "wanted poster"
+    ],
+    "action": "Gundrik leans against the bar, eyeing Speaker_02's rough appearance.",
+    "mood": "gritty",
+    "camera_view": "close-up",
+    "lighting": " dim tavern lighting",
+    "text": "SPEAKER_02: Imagine like Deadwood,, but shit.tier..."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons murmuring in the background.",
+    "characters": [
+      "Lila",
+      "Grimgold"
+    ],
+    "objects": [
+      "bar",
+      "mug"
+    ],
+    "action": "Lila leans against the bar, speaking with Grimgold in hushed tones.",
+    "mood": "suspicious",
+    "camera_view": "close-up",
+    "lighting": "firelit",
+    "text": "SPEAKER_02: Shittier than Dead,wood,, which already wasn't super great..."
+  },
+  {
+    "setting": "A dark, damp cave with ancient stone walls.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 checks the map.",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "soft torch glow",
+    "text": "\"Got it...\""
+  },
+  {
+    "setting": "Abandoned tavern, dimly lit with only a few patrons.",
+    "characters": [
+      "Gundren",
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 speaks to Gundren in hushed tones.",
+    "mood": "suspenseful",
+    "camera_view": "medium shot",
+    "lighting": "dusk light through the tavern windows",
+    "text": "\"And Gund.ren.....\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "soft tavern lighting",
+    "text": "\"And the name of that town. one more time was.....\""
+  },
+  {
+    "setting": "A dark and mysterious forest.",
+    "characters": [
+      "Fa.ndo.lin"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "ominous",
+    "camera_view": "close-up",
+    "lighting": "moonlight",
+    "text": "SPEAKER_02: Fa.ndo.lin..."
+  },
+  {
+    "setting": "A dark and mysterious forest.",
+    "characters": [
+      "Fa.ndo.lin"
+    ],
+    "objects": [],
+    "action": "Fa.ndo.lin speaks to an unseen listener.",
+    "mood": "ominous",
+    "camera_view": "close-up",
+    "lighting": "dim natural light",
+    "text": "Fa.ndo.lin: Fa.ndo.lin..."
+  },
+  {
+    "setting": "A dark, misty forest with gnarled trees looming in the background.",
+    "characters": [
+      "Fa.ndo.lin"
+    ],
+    "objects": [],
+    "action": "Fa.ndo.lin is standing still, eyes fixed intently on something ahead.",
+    "mood": "concentrated",
+    "camera_view": "medium close-up",
+    "lighting": "dim natural light",
+    "text": "Fa.ndo.lin: ... Fa.ndo.lin..."
+  },
+  {
+    "setting": "Abandoned dwarven mine shaft, dusty and dimly lit.",
+    "characters": [
+      "Gundren",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "map",
+      "pickaxe"
+    ],
+    "action": "SPEAKER_02 leans in to whisper to the party.",
+    "mood": "inquisitive",
+    "camera_view": "medium shot",
+    "lighting": "distant torches",
+    "text": "SPEAKER_02: Gundren seems to have a vested interest, him and his family..."
+  },
+  {
+    "setting": "Ancient ruins, overgrown with vines.",
+    "characters": [
+      "Elara",
+      "Speaker_02"
+    ],
+    "objects": [
+      "scroll",
+      "quill"
+    ],
+    "action": "Speaker_02 leans in to whisper to Elara, eyes scanning the surroundings nervously.",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "soft natural light filtering through leaves",
+    "text": "SPEAKER_02: His immediate family..."
+  },
+  {
+    "setting": "Ancient castle ruins, crumbling stones and overgrown vegetation.",
+    "characters": [
+      "Merle",
+      "Fandolin"
+    ],
+    "objects": [],
+    "action": "Fandolin gestures to Merle with a hint of accusation.",
+    "mood": "confrontational",
+    "camera_view": "medium shot",
+    "lighting": "dim sunlight filtering through the ruins",
+    "text": "\"SPEAKER_02: Merle, you aren't so involved in Fandolin's re.construction...\""
+  },
+  {
+    "setting": "Small village with wooden buildings and a town square.",
+    "characters": [
+      "SPEAKER_01",
+      "Gundren"
+    ],
+    "objects": [],
+    "action": "A conversation between the party members and Gundren is taking place in the town square.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "natural light with shadows from trees",
+    "text": "\"But Gundren seems very invested in that town...\""
+  },
+  {
+    "setting": "Dusty tavern basement with a foul odor.",
+    "characters": [
+      "Grog",
+      "Eilif"
+    ],
+    "objects": [
+      "barrel",
+      "bucket"
+    ],
+    "action": "Grog gestures to Eilif while leaning away in disgust.",
+    "mood": "disgusted",
+    "camera_view": "close-up",
+    "lighting": "dim",
+    "text": "\"And it's gross...\""
+  },
+  {
+    "setting": "A cluttered adventuring goods shop in Fa.ndo.lin.",
+    "characters": [
+      "SPEAKER_02",
+      "NPC_01"
+    ],
+    "objects": [
+      "map",
+      "scrolls"
+    ],
+    "action": "SPEAKER_02 points to a worn map on the wall while NPC_01 listens intently.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "soft shop light",
+    "text": "\"So he has asked you to basically bring a supply run from Neverwinter to Fa.ndo.lin...\""
+  },
+  {
+    "setting": "Open desert road with a wagon in the distance.",
+    "characters": [
+      "SPEAKER_02",
+      "wa.gon driver"
+    ],
+    "objects": [
+      "wagon"
+    ],
+    "action": "SPEAKER_02 is discussing travel plans with the wa.gon driver.",
+    "mood": "casual",
+    "camera_view": "medium shot",
+    "lighting": "natural sunlight",
+    "text": "SPEAKER_02: It's about a two, three day ride on a wa.gon..."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons murmuring in the background.",
+    "characters": [
+      "Eilif Stonefist",
+      "Speaker_02"
+    ],
+    "objects": [
+      "mug of ale",
+      "staff"
+    ],
+    "action": "Eilif leans in to speak with Speaker_02, eyeing the door nervously.",
+    "mood": "concerned",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern glow",
+    "text": "SPEAKER_02: Is he expecting trouble???"
+  },
+  {
+    "setting": "Dark cave with a faint glow of luminescent mushrooms.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "nervous",
+    "camera_view": "close-up",
+    "lighting": "soft, eerie glow",
+    "text": "No,,, not really..."
+  },
+  {
+    "setting": "Dark, damp forest with overgrown trees.",
+    "characters": [
+      "Orin",
+      "Eilif"
+    ],
+    "objects": [],
+    "action": "Eilif readies his bow while Orin scans their surroundings.",
+    "mood": "alert",
+    "camera_view": "medium shot",
+    "lighting": "natural light filtering through the trees",
+    "text": "SPEAKER_02: Well,,, he's going to get it..."
+  },
+  {
+    "setting": "Foggy forest glade with ancient trees looming overhead.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 hesitates, unsure of what to do next.",
+    "mood": "nervous",
+    "camera_view": "close-up",
+    "lighting": "dappled sunlight",
+    "text": "SPEAKER_02: Well,,, you don.'.t....."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans in to whisper to a companion.",
+    "mood": "ominous",
+    "camera_view": "close-up",
+    "lighting": "candlelight",
+    "text": "SPEAKER_02: No,,, he's giving us the job..."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "NPC Leader"
+    ],
+    "objects": [
+      "throne",
+      "scroll"
+    ],
+    "action": "The NPC Leader is speaking to SPEAKER_02, who looks intrigued.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern glow",
+    "text": "SPEAKER_02: He's giving you a job right now..."
+  },
+  {
+    "setting": "Dungeon chamber with stone walls and a high ceiling.",
+    "characters": [
+      "Mer.le",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "fountain",
+      "sword"
+    ],
+    "action": "SPEAKER_02 gestures to Mer.le, urgency in his voice.",
+    "mood": "urgency",
+    "camera_view": "medium shot",
+    "lighting": "candlelight",
+    "text": "\"Listen up,, Mer.le...\""
+  },
+  {
+    "setting": "A dusty tavern common room with patrons in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "player character"
+    ],
+    "objects": [
+      "wagon",
+      "parchment"
+    ],
+    "action": "SPEAKER_02 explains the request to the player character.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "\"He has asked you basically to transport a wagon full of goods...\""
+  },
+  {
+    "setting": "A dusty, dimly lit chamber with cobweb-covered tapestries.",
+    "characters": [
+      "SPEAKER_02",
+      "a mysterious figure"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "soft, magical glow",
+    "text": "\"Maybe a few of his personal effects...\""
+  },
+  {
+    "setting": "A dusty, forgotten road winds through the mountains.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "\"From Neverwinter to Fa.ndo.lin...\"",
+    "mood": "determined",
+    "camera_view": "medium shot",
+    "lighting": "daylight",
+    "text": ""
+  },
+  {
+    "setting": "A small, rundown tavern in a seedy part of town.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "bar",
+      "table"
+    ],
+    "action": "SPEAKER_02 leans against the bar and looks around cautiously.",
+    "mood": "suspicious",
+    "camera_view": "medium close-up",
+    "lighting": "dim tavern lighting",
+    "text": "\"And it sounds like a pretty easy job, but you never know...\""
+  },
+  {
+    "setting": "A fantasy tavern with a bustling crowd and wooden tables.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 raises hand to ask a question.",
+    "mood": "curious",
+    "camera_view": "close-up",
+    "lighting": "warm tavern lighting",
+    "text": "Can I ask a question???"
+  },
+  {
+    "setting": "A dimly lit tavern in the middle of a bustling market.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "The speaker waits for someone to respond, standing with their arms crossed.",
+    "mood": "suspenseful",
+    "camera_view": "close-up",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: Yeah, please..."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons in the background.",
+    "characters": [
+      "Darth",
+      "Eryndor"
+    ],
+    "objects": [],
+    "action": "Darth sits at a table, looking annoyed, while Eryndor enters from the doorway.",
+    "mood": "irritated",
+    "camera_view": "close-up",
+    "lighting": "candlelight",
+    "text": "SPEAKER_01: Is this entire adventure dictated through ?exposition???"
+  },
+  {
+    "setting": "Dark cave, a lone figure pacing in the distance.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 gestures emphatically with hands raised.",
+    "mood": "frantic",
+    "camera_view": "close-up",
+    "lighting": "dim ambient light",
+    "text": "SPEAKER_02: No,,, no,,, no..."
+  },
+  {
+    "setting": "A dimly lit cave entrance.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "...",
+    "mood": "intrigued",
+    "camera_view": "medium shot",
+    "lighting": "cave lighting",
+    "text": "\"We're going to get...\""
+  },
+  {
+    "setting": "...",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "neutral",
+    "camera_view": "close-up",
+    "lighting": "overhead",
+    "text": "SPEAKER_01: This is stage setting..."
+  },
+  {
+    "setting": "Dungeon tavern, patrons staring at a group of adventurers.",
+    "characters": [
+      "Eilif Stonefist",
+      "Lila Earthsong"
+    ],
+    "objects": [],
+    "action": "Eilif gestures to the group while Lila looks confused.",
+    "mood": "confused",
+    "camera_view": "medium shot",
+    "lighting": "dull tavern lighting",
+    "text": "SPEAKER_01: Is this a game???"
+  },
+  {
+    "setting": "A cluttered D&D campaign group with papers and rulebooks scattered around.",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "Speaker_01 looks up from a notebook in disgust.",
+    "mood": "irritated",
+    "camera_view": "medium shot",
+    "lighting": "natural light",
+    "text": "\"Is Dungeons & Dragons listening to you do ?exposition??\""
+  },
+  {
+    "setting": "A dimly lit tavern room filled with shady patrons.",
+    "characters": [
+      "Arin",
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "Arin stands firm, hands on hips, while SPEAKER_01 looks away.",
+    "mood": "tense",
+    "camera_view": "close-up",
+    "lighting": "soft tavern glow",
+    "text": "SPEAKER_01: No."
+  },
+  {
+    "setting": "Dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "Speaker_02 leans against a wooden bar, speaking softly to an unseen person.",
+    "mood": "cautious",
+    "camera_view": "close-up shot of Speaker_02's face",
+    "lighting": "warm tavern lighting",
+    "text": "\"Not for the most part...\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 looks nervous and fidgety, speaking to an unknown person.",
+    "mood": "anxious",
+    "camera_view": "close-up",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: I got to....."
+  },
+  {
+    "setting": "A small garden with a single, struggling seedling.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "seed",
+      "trowel"
+    ],
+    "action": "SPEAKER_02 is kneeling to plant the seed.",
+    "mood": "determined",
+    "camera_view": "close-up",
+    "lighting": "soft sunlight",
+    "text": "SPEAKER_02: This is me planting this se.ed..."
+  },
+  {
+    "setting": "A small herb garden with a single, growing seed.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "seed",
+      "watering can"
+    ],
+    "action": "SPEAKER_02 carefully holds the seed and ponders next steps.",
+    "mood": "contemplative",
+    "camera_view": "close-up",
+    "lighting": "soft sunlight",
+    "text": "\"I've actually already planted this seed, and now I have to cover it in soil and nurture it for a bit...\""
+  },
+  {
+    "setting": "Dreary forest with scattered leaves and trees in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 holds a quiver on their back, looking ahead.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "natural light",
+    "text": "SPEAKER_02: And then it's going to....."
+  },
+  {
+    "setting": "A dimly lit tavern, with a fire crackling in the hearth.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "a magical artifact"
+    ],
+    "action": "SPEAKER_02 carefully inspects the artifact.",
+    "mood": "mysterious",
+    "camera_view": "close-up",
+    "lighting": "firelight",
+    "text": "SPEAKER_02: I'm just going to blow on it, and that's it..."
+  },
+  {
+    "setting": "Abandoned tavern, late at night.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans back in a chair, eyes fixed on the darkness outside.",
+    "mood": "uneasy",
+    "camera_view": "medium shot",
+    "lighting": "dull tavern light",
+    "text": "SPEAKER_02: Okay..."
+  },
+  {
+    "setting": "Dungeon lair with stone walls and a large table.",
+    "characters": [
+      "Justin",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "d20",
+      "rulebook"
+    ],
+    "action": "Justin leans back in his chair, looking at SPEAKER_02 with interest.",
+    "mood": "thoughtful",
+    "camera_view": "medium shot",
+    "lighting": "dim room lighting",
+    "text": "SPEAKER_02: I do know,, Justin, for my limited amount, what always makes D&D better is questioning how long it's taken..."
+  },
+  {
+    "setting": "Dusty tavern in a small village, patrons in the background.",
+    "characters": [
+      "Gorthok",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "tavern table",
+      "gold pouch"
+    ],
+    "action": "Gorthok is negotiating with SPEAKER_02 over a deal.",
+    "mood": "serious",
+    "camera_view": "close-up",
+    "lighting": "natural light streaming through the window",
+    "text": "\"He has offered you a 10 gold pieces,\" SPEAKER_02 says, looking at Gorthok."
+  },
+  {
+    "setting": "A dimly lit chamber with ancient artifacts.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "flickering candles",
+    "text": "A piece.?."
+  },
+  {
+    "setting": "Mysterious temple ruins with crumbling stone walls.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "A lone figure stands in the ruins, looking puzzled.",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "dappled sunlight",
+    "text": "Each.?."
+  },
+  {
+    "setting": "A dimly lit tavern, patrons murmuring in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "Speaker stands at a wooden bar, surveying the room.",
+    "mood": "suspicious",
+    "camera_view": "close-up on Speaker's face",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: Each..."
+  },
+  {
+    "setting": "Dimly lit tavern",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 stands at the bar, speaking to the bartender.",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "dimmly lit tavern lighting",
+    "text": "SPEAKER_02: Yes..."
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "uneasy",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: Nice..."
+  },
+  {
+    "setting": "A dimly lit tavern, with patrons in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "NPC"
+    ],
+    "objects": [
+      "pint of ale",
+      "menu"
+    ],
+    "action": "SPEAKER_02 leans against the bar, addressing an NPC.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern lighting",
+    "text": "SPEAKER_02: Which, I mean, I'm not your boss,, but that's not a lot of money..."
+  },
+  {
+    "setting": "A dimly lit tavern",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "Speaking to the bartender",
+    "mood": "cautious",
+    "camera_view": "medium close-up",
+    "lighting": "warm fire glow",
+    "text": "But hey....."
+  },
+  {
+    "setting": "A dimly lit negotiation chamber with a large wooden table.",
+    "characters": [
+      "Dorin",
+      "Sparakk"
+    ],
+    "objects": [
+      "table",
+      "chairs"
+    ],
+    "action": "Dorin leans forward, hands clasped together, while Sparakk sits back in his chair, arms crossed.",
+    "mood": "tense",
+    "camera_view": "medium close-up",
+    "lighting": "dull torchlight",
+    "text": "SPEAKER_02: Is he open to negotiation??"
+  },
+  {
+    "setting": "A dimly lit tavern with shady patrons.",
+    "characters": [
+      "SPEAKER_02",
+      "Taco"
+    ],
+    "objects": [
+      "bar",
+      "patron"
+    ],
+    "action": "SPEAKER_02 stands at the bar, eyeing Taco warily.",
+    "mood": "suspicious",
+    "camera_view": "close-up",
+    "lighting": "dungeon torches",
+    "text": "SPEAKER_02: Can I roll for intimidation to see if you back down."
+  },
+  {
+    "setting": "Dark forest, a lone figure stands with their back to the viewer.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "anxious",
+    "camera_view": "medium close-up",
+    "lighting": "dappled sunlight",
+    "text": "Or....."
+  },
+  {
+    "setting": "Ancient, ruined temple with overgrown vegetation.",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "SPEAKER_01 looks around in confusion.",
+    "mood": "confused",
+    "camera_view": "medium shot",
+    "lighting": "natural light",
+    "text": "\"This is in the past,, I thought...\""
+  },
+  {
+    "setting": "A dimly lit tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "SPEAKER_01 leans against a wooden bar, looking around cautiously.",
+    "mood": "nervous",
+    "camera_view": "medium shot",
+    "lighting": "warm tavern glow",
+    "text": "SPEAKER_01: I thought we weren't playing yet..."
+  },
+  {
+    "setting": "An old, dusty library with shelves of ancient tomes.",
+    "characters": [
+      "Eilif",
+      "Gundrik"
+    ],
+    "objects": [
+      "book",
+      "quill"
+    ],
+    "action": "Eilif flips through the pages of a worn leather book while Gundrik looks over his shoulder.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "soft ambient glow",
+    "text": "SPEAKER_02: This actually did happen in the past..."
+  },
+  {
+    "setting": "Dark dungeon corridor with flickering torches.",
+    "characters": [
+      "Speaker_02"
+    ],
+    "objects": [],
+    "action": "Speaker_02 speaks quietly to themselves.",
+    "mood": "concerned",
+    "camera_view": "close-up",
+    "lighting": "dim",
+    "text": "\"Yeah,...\""
+  },
+  {
+    "setting": "A dimly lit, dusty tavern with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 stands at a bar, eyes scanning the room.",
+    "mood": "suspicious",
+    "camera_view": "medium shot",
+    "lighting": "candlelight",
+    "text": "\"Okay...\""
+  },
+  {
+    "setting": "A dusty, dimly lit tavern with patrons in the background.",
+    "characters": [
+      "Grimbold",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "bar",
+      "glasses"
+    ],
+    "action": "SPEAKER_02 leans against the bar, eyeing Grimbold's party.",
+    "mood": "suspicious",
+    "camera_view": "medium shot",
+    "lighting": "flickering candles and lanterns",
+    "text": "SPEAKER_02: Payment on arrival, maybe you can try and nego.ti.ate..."
+  },
+  {
+    "setting": "Dimly lit tavern, patrons murmuring in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "Party Leader"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 speaking to the Party Leader.",
+    "mood": "neutral",
+    "camera_view": "medium shot",
+    "lighting": "distant tavern lighting",
+    "text": "\"But yeah,,, he has offered you to do the supply run...\""
+  },
+  {
+    "setting": "A dimly lit tavern, with patrons in the background.",
+    "characters": [
+      "Taco",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "bar",
+      "glass of wine"
+    ],
+    "action": "SPEAKER_02 leans back on a chair, speaking to Taco.",
+    "mood": "neutral",
+    "camera_view": "close-up",
+    "lighting": "warm tavern lighting",
+    "text": "\"The payment's not great,, but the promise that the last job you'll ever need to do certainly did it for you...\""
+  },
+  {
+    "setting": "Dark forest floor",
+    "characters": [
+      "Taco"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 speaks quietly to Taco.",
+    "mood": "cautious",
+    "camera_view": "medium shot",
+    "lighting": "moonlight",
+    "text": "SPEAKER_02: Got.cha..."
+  },
+  {
+    "setting": "Dark and mysterious cave entrance with a faint glow of magic.",
+    "characters": [
+      "SPEAKER_02",
+      "DM"
+    ],
+    "objects": [
+      "D20, Dungeon Map"
+    ],
+    "action": "DM raises the D20 to determine the outcome of Magnus's next move.",
+    "mood": "anticipatory",
+    "camera_view": "medium shot",
+    "lighting": "flickering candlelight",
+    "text": "SPEAKER_02: You are now....."
+  },
+  {
+    "setting": "A dusty road winding through a dense forest.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "casual",
+    "camera_view": "medium shot",
+    "lighting": "natural",
+    "text": "You're all on the road..."
+  },
+  {
+    "setting": "Dark castle courtyard with crumbling stones and overgrown plants.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "confused",
+    "camera_view": "close-up",
+    "lighting": "dawn",
+    "text": "SPEAKER_02: This is where we find our hero,es,, right now..."
+  },
+  {
+    "setting": "A dusty, cobblestone road winding through a small village.",
+    "characters": [
+      "Eilif",
+      "Elara"
+    ],
+    "objects": [
+      "horse-drawn cart"
+    ],
+    "action": "Eilif looks back at Elara with a concerned expression.",
+    "mood": "anxious",
+    "camera_view": "close-up",
+    "lighting": "afternoon sun",
+    "text": "SPEAKER_02: Am I driving the cart???"
+  },
+  {
+    "setting": "A dimly lit tavern room with patrons in the background.",
+    "characters": [
+      "SPEAKER_02",
+      "Barkeep"
+    ],
+    "objects": [
+      "bar stool",
+      "mug"
+    ],
+    "action": "SPEAKER_02 leans in, speaking to the Barkeep in hushed tones.",
+    "mood": "intrigued",
+    "camera_view": "close-up",
+    "lighting": "soft tavern lighting",
+    "text": "\"Because I actually....\""
+  },
+  {
+    "setting": "A bustling marketplace with various stalls and a large, open square.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 leans on a nearby stall, examining a vehicle manual.",
+    "mood": "curious",
+    "camera_view": "medium shot",
+    "lighting": "natural daylight",
+    "text": "\"I have a proficiency in vehicles...\""
+  },
+  {
+    "setting": "Candlelit tavern, patrons in the background.",
+    "characters": [
+      "Eilif",
+      "Gundrik"
+    ],
+    "objects": [],
+    "action": "Eilif leans in to speak with Gundrik.",
+    "mood": "suspicious",
+    "camera_view": "close-up",
+    "lighting": "warm candlelight",
+    "text": "SPEAKER_02: Do you really???"
+  },
+  {
+    "setting": "Cave entrance, rocky walls, and a faint glow of magic.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "SPEAKER_02 is seen speaking to an unseen person.",
+    "mood": "serious",
+    "camera_view": "medium close-up",
+    "lighting": "soft blue magical glow",
+    "text": "SPEAKER_02: I do..."
+  },
+  {
+    "setting": "A dimly lit tavern interior with patrons in the background.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "serious",
+    "camera_view": "medium shot",
+    "lighting": "fireplace and candles",
+    "text": "\"Okay...\""
+  },
+  {
+    "setting": "Abandoned highway on a rainy night.",
+    "characters": [
+      "SPEAKER_02",
+      "driver"
+    ],
+    "objects": [
+      "car"
+    ],
+    "action": "Speaker 02 is suggesting a driving alternative to the party.",
+    "mood": "casual",
+    "camera_view": "medium shot",
+    "lighting": "overcast",
+    "text": "\"You can be driving the car...\""
+  },
+  {
+    "setting": "Dungeon tavern common room with patrons in the background.",
+    "characters": [
+      "Taco",
+      "Borg"
+    ],
+    "objects": [],
+    "action": "Taco leans in to talk to Borg while keeping an eye on the crowd.",
+    "mood": "cautious",
+    "camera_view": "medium shot",
+    "lighting": "firelit",
+    "text": "SPEAKER_02: So you can say..."
+  },
+  {
+    "setting": "A dusty desert road with a small wagon and two oxen.",
+    "characters": [
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "wagon",
+      "oxen"
+    ],
+    "action": "SPEAKER_02 is explaining the situation to their companions.",
+    "mood": "informative",
+    "camera_view": "medium shot",
+    "lighting": "daylight",
+    "text": "SPEAKER_02: It's basically like a covered Conestoga wagon, covered by a canvas tarp over it, and led by two oxen that...."
+  },
+  {
+    "setting": "Tattered adventurer's guild map room, papers scattered everywhere.",
+    "characters": [
+      "Speaker_02"
+    ],
+    "objects": [
+      "map",
+      "scroll"
+    ],
+    "action": "Speaker_02 frantically searches through the maps.",
+    "mood": "desperate",
+    "camera_view": "medium close-up",
+    "lighting": "dim, with a single candelabra casting flickering shadows",
+    "text": "SPEAKER_02: Did he give us a map???"
+  },
+  {
+    "setting": "A dimly lit, abandoned tavern with a large map spread out on the table.",
+    "characters": [
+      "You",
+      "SPEAKER_02"
+    ],
+    "objects": [
+      "map"
+    ],
+    "action": "You point to different locations on the map while SPEAKER_02 nods and makes notes.",
+    "mood": "inquisitive",
+    "camera_view": "medium shot",
+    "lighting": "dimmly lit candles",
+    "text": "SPEAKER_02: You have a map, yeah,..."
+  },
+  {
+    "setting": "A worn-out carriage on a dusty road.",
+    "characters": [
+      "Eilif",
+      "Balandir"
+    ],
+    "objects": [
+      "carriage wheels",
+      "leather straps"
+    ],
+    "action": "Balandir looks worried, gesturing to Eilif as they ride through the countryside.",
+    "mood": "concerned",
+    "camera_view": "medium close-up",
+    "lighting": "sunny",
+    "text": "\"SPEAKER_01: Do we know how long of a ride it is??\""
+  },
+  {
+    "setting": "A dense forest with tall trees and a faint fog in the distance.",
+    "characters": [
+      "Eilif",
+      "Gorthok"
+    ],
+    "objects": [
+      "rucksack",
+      "sword"
+    ],
+    "action": "Eilif pauses to listen carefully, while Gorthok readies his sword.",
+    "mood": "suspicious",
+    "camera_view": "medium shot",
+    "lighting": "dappled sunlight",
+    "text": "SPEAKER_01: It'll be about two days..."
+  },
+  {
+    "setting": "Dungeon chamber with ancient stone walls and a large, ornate door.",
+    "characters": [
+      "SPEAKER_01"
+    ],
+    "objects": [],
+    "action": "",
+    "mood": "skeptical",
+    "camera_view": "medium shot",
+    "lighting": "dim ambient",
+    "text": "\"Okay...\""
+  }
+]
