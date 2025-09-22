@@ -1,15 +1,13 @@
 import transcribe
-import AddTextToImage
 import CreateComicPage
 import TextToScriptgtp
 import scriptToImageGPT
 import scriptToPrompt
-import json
 
 def main():
-    #transcribe.main()
-    #TextToScriptgtp.main()
-    #scriptToPrompt.main()
+    transcribe.main()
+    TextToScriptgtp.main()
+    scriptToPrompt.main()
     scriptToImageGPT.main()
     CreateComicPage.main()
 

@@ -3,6 +3,8 @@ import torch
 import AddTextToImage
 import json
 
+testing = False
+
 def generate_images_from_script(script_path):
     # Load comic panel script with LLM-generated prompts
     with open(script_path, "r", encoding="utf-8") as f:
@@ -35,7 +37,7 @@ def generate_images_from_script(script_path):
         image_with_text = AddTextToImage.add_text_to_panel(panel["text"], image)
         image_with_text.save(f"output/images/imagesWithText/panel_{i}.png")
 
-        if i == 5:
+        if i == 5 and testing:
             return
 
 def main():

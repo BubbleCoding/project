@@ -147,7 +147,7 @@ def create_clean_transcript_with_speakers(audio_path, output_json):
     print(f"Transcript with speakers saved to {output_json}")
 
 def main():
-    audio_file = "../audio/Comedy - Ep.1_ Here There Be Gerblins - Chapter One.wav"
+    audio_file = "../audio/fullSession4.wav"
     output_file = "output/clean_transcript_with_speakers.json"
     create_clean_transcript_with_speakers(audio_file, output_file)
 
