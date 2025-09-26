@@ -11,3 +11,7 @@
 *.pyc
 .safetensors
 /lora
+*.png
+*.wav
+*.WAV
+*.json
